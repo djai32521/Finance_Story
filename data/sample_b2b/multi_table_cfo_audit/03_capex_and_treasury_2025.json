@@ -1,0 +1,197 @@
+{
+  "entity": "Nimbus AI Cloud Corp",
+  "fiscal_year": 2025,
+  "table": "CapEx & Treasury Reserve Schedule",
+  "transactions": [
+    {
+      "id": "NIM-2025-0003",
+      "date": "2025-01-25",
+      "vendor": "Mercury Treasury Reserve",
+      "department": "Treasury & Reserves",
+      "description": "Automated Treasury Yield Reserve Sweep — Month 01",
+      "amount": "-44500.00",
+      "currency": "USD",
+      "account": "SVB Treasury"
+    },
+    {
+      "id": "NIM-2025-0043",
+      "date": "2025-02-25",
+      "vendor": "Mercury Treasury Reserve",
+      "department": "Treasury & Reserves",
+      "description": "Automated Treasury Yield Reserve Sweep — Month 02",
+      "amount": "-47000.00",
+      "currency": "USD",
+      "account": "SVB Treasury"
+    },
+    {
+      "id": "NIM-2025-0084",
+      "date": "2025-03-25",
+      "vendor": "Mercury Treasury Reserve",
+      "department": "Treasury & Reserves",
+      "description": "Automated Treasury Yield Reserve Sweep — Month 03",
+      "amount": "-49500.00",
+      "currency": "USD",
+      "account": "SVB Treasury"
+    },
+    {
+      "id": "NIM-2025-0125",
+      "date": "2025-04-25",
+      "vendor": "Mercury Treasury Reserve",
+      "department": "Treasury & Reserves",
+      "description": "Automated Treasury Yield Reserve Sweep — Month 04",
+      "amount": "-52000.00",
+      "currency": "USD",
+      "account": "SVB Treasury"
+    },
+    {
+      "id": "NIM-2025-0491",
+      "date": "2025-05-14",
+      "vendor": "Nvidia",
+      "department": "CapEx, Hardware & Equipment",
+      "description": "Nvidia DGX H100 AI Cluster Buildout — Stage 1 Anchor Deposit (40%)",
+      "amount": "-38500.00",
+      "currency": "USD",
+      "account": "Mercury Operating"
+    },
+    {
+      "id": "NIM-2025-0492",
+      "date": "2025-05-22",
+      "vendor": "Dell Technologies",
+      "department": "CapEx, Hardware & Equipment",
+      "description": "Dell PowerEdge R760 Host Nodes & 100GbE Top-of-Rack Switches",
+      "amount": "-14200.00",
+      "currency": "USD",
+      "account": "Mercury Operating"
+    },
+    {
+      "id": "NIM-2025-0166",
+      "date": "2025-05-25",
+      "vendor": "Mercury Treasury Reserve",
+      "department": "Treasury & Reserves",
+      "description": "Automated Treasury Yield Reserve Sweep — Month 05",
+      "amount": "-54500.00",
+      "currency": "USD",
+      "account": "SVB Treasury"
+    },
+    {
+      "id": "NIM-2025-0493",
+      "date": "2025-06-09",
+      "vendor": "CDW",
+      "department": "CapEx, Hardware & Equipment",
+      "description": "APC Smart-UPS Modular PDU & Liquid Cooling Manifold Kit",
+      "amount": "-9650.00",
+      "currency": "USD",
+      "account": "Mercury Operating"
+    },
+    {
+      "id": "NIM-2025-0494",
+      "date": "2025-06-19",
+      "vendor": "Apple",
+      "department": "CapEx, Hardware & Equipment",
+      "description": "Apple Mac Studio M3 Ultra Engineering Workstations (6 Units)",
+      "amount": "-18400.00",
+      "currency": "USD",
+      "account": "Brex Corporate Card"
+    },
+    {
+      "id": "NIM-2025-0206",
+      "date": "2025-06-25",
+      "vendor": "Mercury Treasury Reserve",
+      "department": "Treasury & Reserves",
+      "description": "Automated Treasury Yield Reserve Sweep — Month 06",
+      "amount": "-57000.00",
+      "currency": "USD",
+      "account": "SVB Treasury"
+    },
+    {
+      "id": "NIM-2025-0495",
+      "date": "2025-07-08",
+      "vendor": "Dell Technologies",
+      "department": "CapEx, Hardware & Equipment",
+      "description": "NVMe Gen5 Enterprise Storage Array Expansion (240TB)",
+      "amount": "-12800.00",
+      "currency": "USD",
+      "account": "Mercury Operating"
+    },
+    {
+      "id": "NIM-2025-0496",
+      "date": "2025-07-23",
+      "vendor": "CDW",
+      "department": "CapEx, Hardware & Equipment",
+      "description": "Optical Transceivers, InfiniBand Cabling & Rack Enclosure",
+      "amount": "-6450.00",
+      "currency": "USD",
+      "account": "Brex Corporate Card"
+    },
+    {
+      "id": "NIM-2025-0248",
+      "date": "2025-07-25",
+      "vendor": "Mercury Treasury Reserve",
+      "department": "Treasury & Reserves",
+      "description": "Automated Treasury Yield Reserve Sweep — Month 07",
+      "amount": "-59500.00",
+      "currency": "USD",
+      "account": "SVB Treasury"
+    },
+    {
+      "id": "NIM-2025-0497",
+      "date": "2025-08-18",
+      "vendor": "Nvidia",
+      "department": "CapEx, Hardware & Equipment",
+      "description": "Nvidia DGX H100 AI Cluster Buildout — Stage 2 Final Commissioning (60%)",
+      "amount": "-57750.00",
+      "currency": "USD",
+      "account": "Mercury Operating"
+    },
+    {
+      "id": "NIM-2025-0288",
+      "date": "2025-08-25",
+      "vendor": "Mercury Treasury Reserve",
+      "department": "Treasury & Reserves",
+      "description": "Automated Treasury Yield Reserve Sweep — Month 08",
+      "amount": "-62000.00",
+      "currency": "USD",
+      "account": "SVB Treasury"
+    },
+    {
+      "id": "NIM-2025-0329",
+      "date": "2025-09-25",
+      "vendor": "Mercury Treasury Reserve",
+      "department": "Treasury & Reserves",
+      "description": "Automated Treasury Yield Reserve Sweep — Month 09",
+      "amount": "-64500.00",
+      "currency": "USD",
+      "account": "SVB Treasury"
+    },
+    {
+      "id": "NIM-2025-0370",
+      "date": "2025-10-25",
+      "vendor": "Mercury Treasury Reserve",
+      "department": "Treasury & Reserves",
+      "description": "Automated Treasury Yield Reserve Sweep — Month 10",
+      "amount": "-67000.00",
+      "currency": "USD",
+      "account": "SVB Treasury"
+    },
+    {
+      "id": "NIM-2025-0411",
+      "date": "2025-11-25",
+      "vendor": "Mercury Treasury Reserve",
+      "department": "Treasury & Reserves",
+      "description": "Automated Treasury Yield Reserve Sweep — Month 11",
+      "amount": "-69500.00",
+      "currency": "USD",
+      "account": "SVB Treasury"
+    },
+    {
+      "id": "NIM-2025-0451",
+      "date": "2025-12-25",
+      "vendor": "Mercury Treasury Reserve",
+      "department": "Treasury & Reserves",
+      "description": "Automated Treasury Yield Reserve Sweep — Month 12",
+      "amount": "-72000.00",
+      "currency": "USD",
+      "account": "SVB Treasury"
+    }
+  ]
+}

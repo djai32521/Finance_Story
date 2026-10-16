@@ -1,0 +1,25 @@
+Transaction ID,Date,Account,Vendor,Department,Description,Amount,Currency
+NIM-2025-0001,2025-01-03,SVB Treasury,Stripe Settlement,Revenue & ARR,Stripe Settlement — Enterprise Cloud Cohort 01/A,176796.00,USD
+NIM-2025-0002,2025-01-18,SVB Treasury,Enterprise ARR,Revenue & ARR,Enterprise ARR — Annual Contract Wire Settlement 01/B,110019.00,USD
+NIM-2025-0041,2025-02-03,SVB Treasury,Stripe Settlement,Revenue & ARR,Stripe Settlement — Enterprise Cloud Cohort 02/A,191544.00,USD
+NIM-2025-0042,2025-02-18,SVB Treasury,Enterprise ARR,Revenue & ARR,Enterprise ARR — Annual Contract Wire Settlement 02/B,111405.00,USD
+NIM-2025-0082,2025-03-03,SVB Treasury,Stripe Settlement,Revenue & ARR,Stripe Settlement — Enterprise Cloud Cohort 03/A,204630.00,USD
+NIM-2025-0083,2025-03-18,SVB Treasury,Enterprise ARR,Revenue & ARR,Enterprise ARR — Annual Contract Wire Settlement 03/B,125597.00,USD
+NIM-2025-0123,2025-04-03,SVB Treasury,Stripe Settlement,Revenue & ARR,Stripe Settlement — Enterprise Cloud Cohort 04/A,216288.00,USD
+NIM-2025-0124,2025-04-18,SVB Treasury,Enterprise ARR,Revenue & ARR,Enterprise ARR — Annual Contract Wire Settlement 04/B,128646.00,USD
+NIM-2025-0164,2025-05-03,SVB Treasury,Stripe Settlement,Revenue & ARR,Stripe Settlement — Enterprise Cloud Cohort 05/A,226976.00,USD
+NIM-2025-0165,2025-05-18,SVB Treasury,Enterprise ARR,Revenue & ARR,Enterprise ARR — Annual Contract Wire Settlement 05/B,137124.00,USD
+NIM-2025-0204,2025-06-03,SVB Treasury,Stripe Settlement,Revenue & ARR,Stripe Settlement — Enterprise Cloud Cohort 06/A,231440.00,USD
+NIM-2025-0205,2025-06-18,SVB Treasury,Enterprise ARR,Revenue & ARR,Enterprise ARR — Annual Contract Wire Settlement 06/B,150403.00,USD
+NIM-2025-0246,2025-07-03,SVB Treasury,Stripe Settlement,Revenue & ARR,Stripe Settlement — Enterprise Cloud Cohort 07/A,245923.00,USD
+NIM-2025-0247,2025-07-18,SVB Treasury,Enterprise ARR,Revenue & ARR,Enterprise ARR — Annual Contract Wire Settlement 07/B,158623.00,USD
+NIM-2025-0286,2025-08-03,SVB Treasury,Stripe Settlement,Revenue & ARR,Stripe Settlement — Enterprise Cloud Cohort 08/A,256029.00,USD
+NIM-2025-0287,2025-08-18,SVB Treasury,Enterprise ARR,Revenue & ARR,Enterprise ARR — Annual Contract Wire Settlement 08/B,164183.00,USD
+NIM-2025-0327,2025-09-03,SVB Treasury,Stripe Settlement,Revenue & ARR,Stripe Settlement — Enterprise Cloud Cohort 09/A,268806.00,USD
+NIM-2025-0328,2025-09-18,SVB Treasury,Enterprise ARR,Revenue & ARR,Enterprise ARR — Annual Contract Wire Settlement 09/B,171621.00,USD
+NIM-2025-0368,2025-10-03,SVB Treasury,Stripe Settlement,Revenue & ARR,Stripe Settlement — Enterprise Cloud Cohort 10/A,276457.00,USD
+NIM-2025-0369,2025-10-18,SVB Treasury,Enterprise ARR,Revenue & ARR,Enterprise ARR — Annual Contract Wire Settlement 10/B,178280.00,USD
+NIM-2025-0409,2025-11-03,SVB Treasury,Stripe Settlement,Revenue & ARR,Stripe Settlement — Enterprise Cloud Cohort 11/A,292649.00,USD
+NIM-2025-0410,2025-11-18,SVB Treasury,Enterprise ARR,Revenue & ARR,Enterprise ARR — Annual Contract Wire Settlement 11/B,188563.00,USD
+NIM-2025-0449,2025-12-03,SVB Treasury,Stripe Settlement,Revenue & ARR,Stripe Settlement — Enterprise Cloud Cohort 12/A,305231.00,USD
+NIM-2025-0450,2025-12-18,SVB Treasury,Enterprise ARR,Revenue & ARR,Enterprise ARR — Annual Contract Wire Settlement 12/B,199862.00,USD

@@ -1,0 +1,873 @@
+/**
+ * "Blocks" Complete CSS Design System (`src/design/styles.css`)
+ *
+ * Flat saturated color blocks, zero gradients/glow/grain, Inter Tight + JetBrains Mono
+ * self-hosted typography, DOM digit-strip odometers, kinetic split lines, 3D receipt
+ * flip card, receipts drawer, Ask bar, and responsive desktop (1920×1080 / 1440×900)
+ * & dedicated phone (390×844) layouts.
+ */
+
+:root {
+  --ink: #111111;
+  --bone: #f3f0e6;
+  --paper: #e6e4de;
+  --c1: #f4f03a;
+  --c2: #ffa8e4;
+  --c3: #b9b744;
+  --c4: #ff5a14;
+  --c5: #e3a83c;
+  --c6: #ff6b57;
+  --lav: #a9a2e0;
+  --mint: #b9f0c6;
+  --blue: #6e8bff;
+  --lime: #d7f246;
+  --cyan: #6be8f2;
+  --peach: #ffb58a;
+  --ghost: #1c1c1b;
+  --ghost-bone: #dcd8ca;
+  --rule-dark: #3a3a38;
+  --rule-light: #c9c5ba;
+  --muted-bone: #b8b4a9;
+  --font-display: 'Inter Tight', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+  --s: 1;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  background: var(--ink);
+  color: var(--bone);
+  font-family: var(--font-display);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: geometricPrecision;
+  overflow-x: hidden;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: 0;
+}
+
+button {
+  cursor: pointer;
+}
+
+.mono,
+.lab {
+  font-family: var(--font-mono);
+}
+
+.lab {
+  font-size: 13px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-weight: 500;
+  line-height: 1.45;
+}
+
+/* ---------- Top Control Bar (hidden by default; shown with body.show-dev-bar) ---------- */
+#bar,
+.blocks-bar {
+  position: sticky;
+  top: 0;
+  z-index: 30;
+  display: flex;
+  gap: 12px 18px;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 12px 24px;
+  background: var(--paper);
+  color: var(--ink);
+  border-bottom: 1.5px solid var(--ink);
+}
+
+#bar {
+  display: none;
+}
+
+body.show-dev-bar #bar {
+  display: flex;
+}
+
+#bar .brand,
+.blocks-bar .brand {
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+#bar .brand b,
+.blocks-bar .brand b {
+  font-weight: 500;
+  font-size: 19px;
+  letter-spacing: -0.01em;
+}
+
+#bar .brand span,
+.blocks-bar .brand span {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.btn {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-weight: 500;
+  padding: 11px 18px;
+  border: 1.5px solid currentColor;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  transition:
+    scale 0.12s cubic-bezier(0.22, 1, 0.36, 1),
+    background-color 0.2s ease,
+    color 0.2s ease;
+}
+
+.btn:active {
+  scale: 0.94;
+}
+
+.btn.primary {
+  background: var(--ink);
+  color: var(--bone);
+  border-color: var(--ink);
+}
+
+.btn.primary-solar {
+  background: var(--c1);
+  color: var(--ink);
+  border-color: var(--c1);
+}
+
+.btn.primary i {
+  font-style: normal;
+  opacity: 0.75;
+  margin-left: 6px;
+}
+
+#chnav,
+.ch-nav {
+  display: flex;
+  border: 1.5px solid currentColor;
+}
+
+#chnav button,
+.ch-nav button {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 9px 11px;
+  transition:
+    scale 0.12s,
+    background-color 0.2s,
+    color 0.2s;
+}
+
+#chnav button + button,
+.ch-nav button + button {
+  border-left: 1.5px solid currentColor;
+}
+
+#chnav button[aria-current='true'],
+.ch-nav button[aria-current='true'] {
+  background: var(--ink);
+  color: var(--bone);
+}
+
+/* ---------- 1920 × 1080 Desktop Stage & 390 × 844 Phone Stage ---------- */
+#stagewrap,
+.stage-wrap {
+  position: relative;
+  margin: 0 auto;
+  width: calc(1920px * var(--s, 1));
+  height: calc(1080px * var(--s, 1));
+  overflow: hidden;
+}
+
+#stage,
+.stage {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1920px;
+  height: 1080px;
+  transform: scale(var(--s, 1));
+  transform-origin: 0 0;
+  background: var(--ink);
+  color: var(--bone);
+  overflow: hidden;
+  contain: strict;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+#stage.nocursor,
+.stage.nocursor {
+  cursor: none;
+}
+
+.stage-phone {
+  position: relative;
+  width: 390px;
+  height: 844px;
+  background: var(--ink);
+  color: var(--bone);
+  overflow: hidden;
+  contain: strict;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.layer {
+  position: absolute;
+  inset: 0;
+}
+
+#cv,
+.stage-canvas {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1920px;
+  height: 1080px;
+  pointer-events: none;
+}
+
+.ch {
+  position: absolute;
+  inset: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.ch.active {
+  visibility: visible;
+}
+
+.ia {
+  pointer-events: auto;
+}
+
+.abs,
+.ch .lab,
+.ch .tx,
+.ch .dt {
+  position: absolute;
+}
+
+/* ---------- Chapter Header Stack (Anti-Clash Flex Layout) ---------- */
+.ch-header-stack {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  z-index: 6;
+  pointer-events: none;
+}
+
+.ch-header-stack > .lab,
+.ch-header-stack > .tx,
+.ch-header-stack > [data-testid='chapter-headline'],
+.ch-header-stack > [data-testid='chapter-body'] {
+  position: relative !important;
+  top: auto !important;
+  left: auto !important;
+  right: auto !important;
+  margin: 0;
+  pointer-events: auto;
+}
+
+/* ---------- Flat Color Blocks & One-Axis Scaling Rules ---------- */
+.blk {
+  position: absolute;
+  overflow: hidden;
+  will-change: transform;
+}
+
+.blk > .lab {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  line-height: 1.25;
+}
+
+.blk:has(> .rc) > .lab:first-child:not([style*='right']):not([style*='display:flex']):not([style*='display: flex']),
+.blk:has(> .receipt-trigger) > .lab:first-child:not([style*='right']):not([style*='display:flex']):not([style*='display: flex']) {
+  max-width: calc(100% - 132px);
+}
+
+.blk > .lab[style*='display:flex'],
+.blk > .lab[style*='display: flex'] {
+  max-width: none;
+  gap: 8px;
+}
+
+.blk > .lab > span {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.blk > .lab > button {
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+.blk[data-ax='b'],
+.blk[data-axis='b'] {
+  transform-origin: 50% 100%;
+}
+
+.blk[data-ax='t'],
+.blk[data-axis='t'] {
+  transform-origin: 50% 0%;
+}
+
+.blk[data-ax='l'],
+.blk[data-axis='l'] {
+  transform-origin: 0% 50%;
+}
+
+.blk[data-ax='r'],
+.blk[data-axis='r'] {
+  transform-origin: 100% 50%;
+}
+
+/* ---------- Display Numbers, Superscript Units, Odometers ---------- */
+.num {
+  font-family: var(--font-display);
+  font-weight: 300;
+  letter-spacing: -0.045em;
+  line-height: 1;
+  white-space: nowrap;
+  display: flex;
+  align-items: flex-start;
+  font-feature-settings: 'tnum' 1;
+  font-variant-numeric: tabular-nums;
+}
+
+.num sup {
+  font-family: var(--font-mono);
+  font-size: clamp(11px, 0.12em, 26px);
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  line-height: 1;
+  margin: 0.32em 0.16em 0 0;
+  text-transform: uppercase;
+}
+
+.num sup.aft {
+  margin: 0.32em 0 0 0.14em;
+}
+
+.gh {
+  pointer-events: none;
+  user-select: none;
+  font-weight: 300;
+  letter-spacing: -0.055em;
+  line-height: 0.85;
+}
+
+.odo {
+  display: inline-flex;
+  align-items: flex-start;
+}
+
+.odo .dg {
+  display: inline-block;
+  height: 1.18em;
+  margin: -0.09em 0;
+  overflow: hidden;
+  transition: opacity 0.24s ease;
+}
+
+.odo .st {
+  display: block;
+  will-change: transform;
+}
+
+.odo .st i {
+  display: block;
+  height: 1.18em;
+  line-height: 1.18em;
+  font-style: normal;
+  text-align: center;
+}
+
+.odo .sp {
+  display: inline-block;
+  height: 1.18em;
+  line-height: 1.18em;
+  margin: -0.09em 0;
+  transition: opacity 0.24s ease;
+}
+
+.odo .z {
+  opacity: 0.2;
+}
+
+.odo.hide .z {
+  opacity: 0;
+}
+
+/* ---------- Kinetic Split Text ---------- */
+.split .ln {
+  display: block;
+  overflow: hidden;
+  padding: 0.04em 0.03em 0.16em;
+  margin: -0.04em -0.03em -0.16em;
+  white-space: normal;
+}
+
+.split .w {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.split .l {
+  display: inline-block;
+  will-change: transform;
+}
+
+/* ---------- Raw CSV Wall & Magnifier Lens ---------- */
+.wcol {
+  position: absolute;
+  top: 0;
+  height: 1080px;
+  width: 174.5px;
+}
+
+.wr {
+  position: absolute;
+  left: 6px;
+  width: 168px;
+  height: 13.5px;
+  font: 500 10.5px/13.5px var(--font-mono);
+  white-space: pre;
+  color: #8e8a7f;
+  contain: strict;
+}
+
+.lr {
+  font: 500 22px/35px var(--font-mono);
+  white-space: pre;
+  color: var(--ink);
+  display: flex;
+  align-items: center;
+}
+
+.lr .k {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  margin-left: 14px;
+  border: 1px solid var(--ink);
+  flex: none;
+}
+
+/* ---------- Chips, Badges, Receipt Triggers ---------- */
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  padding: 10px 15px;
+  border: 1.5px solid var(--bone);
+  font-family: var(--font-mono);
+  font-size: 13px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--bone);
+  background: transparent;
+  transition:
+    scale 0.12s cubic-bezier(0.22, 1, 0.36, 1),
+    background-color 0.22s ease,
+    color 0.22s ease;
+}
+
+.chip i {
+  width: 11px;
+  height: 11px;
+  display: block;
+  flex: none;
+}
+
+.chip:hover {
+  background: rgba(243, 240, 230, 0.1);
+}
+
+.chip:active {
+  scale: 0.94;
+}
+
+.chip[aria-pressed='true'] {
+  background: var(--bone);
+  color: var(--ink);
+}
+
+.badge-bespoke {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 12px;
+  background: var(--ink);
+  color: var(--c1);
+  border: 1.5px solid var(--c1);
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.badge-bespoke::before {
+  content: '';
+  width: 7px;
+  height: 7px;
+  background: var(--c1);
+  display: inline-block;
+}
+
+.receipt-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 12px;
+  border: 1.5px solid currentColor;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  pointer-events: auto;
+  cursor: pointer;
+  transition:
+    scale 0.12s,
+    background-color 0.2s,
+    color 0.2s;
+}
+
+.receipt-badge:hover {
+  background: var(--ink);
+  color: var(--bone);
+}
+
+.receipt-badge:active {
+  scale: 0.94;
+}
+
+/* ---------- Tabular Receipts & Dotted Leaders ---------- */
+.rc {
+  font: 500 15px/1.15 var(--font-mono);
+  display: flex;
+  gap: 8px;
+  padding: 7px 0;
+  align-items: baseline;
+  font-variant-numeric: tabular-nums;
+}
+
+.rc .ld {
+  flex: 1;
+  border-bottom: 1.5px dotted currentColor;
+  opacity: 0.45;
+  transform: translateY(-3px);
+  min-width: 16px;
+}
+
+.rc .sw {
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  flex: none;
+  border: 1px solid var(--ink);
+}
+
+.rc .dt-col {
+  opacity: 0.68;
+  min-width: 58px;
+  font-size: 13px;
+}
+
+/* ---------- Stage Chrome: Progress, Beat Indicator, Tooltip, Pill, Flip ---------- */
+#prog,
+.stage-prog {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  height: 5px;
+  display: flex;
+  gap: 4px;
+  z-index: 15;
+}
+
+#prog div,
+.stage-prog div {
+  flex: 1;
+  background: #2a2a29;
+  position: relative;
+  overflow: hidden;
+}
+
+#prog div i,
+.stage-prog div i {
+  position: absolute;
+  inset: 0;
+  background: var(--bone);
+  transform-origin: 0 50%;
+  transform: scaleX(0);
+}
+
+#beatdot,
+.beat-dot {
+  display: inline-block;
+  width: 9px;
+  height: 9px;
+  background: var(--c4);
+  margin-right: 7px;
+  vertical-align: 0;
+}
+
+#tip,
+.stage-tip {
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: var(--bone);
+  color: var(--ink);
+  border: 1.5px solid var(--ink);
+  font: 500 13px/1.45 var(--font-mono);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 10px 14px;
+  pointer-events: none;
+  opacity: 0;
+  white-space: nowrap;
+  z-index: 20;
+}
+
+#tip b,
+.stage-tip b {
+  font-weight: 600;
+  display: block;
+  font-size: 15px;
+  margin-bottom: 2px;
+}
+
+#pill,
+.stage-pill {
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: var(--c1);
+  color: var(--ink);
+  border: 1.5px solid var(--ink);
+  padding: 10px 15px 9px;
+  pointer-events: none;
+  opacity: 0;
+  white-space: nowrap;
+  z-index: 20;
+}
+
+#pill .num,
+.stage-pill .num {
+  font-size: 40px;
+}
+
+#pill .lab,
+.stage-pill .lab {
+  font-size: 11px;
+  position: static;
+  margin-top: 4px;
+}
+
+#cring {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 34px;
+  height: 34px;
+  margin: -17px 0 0 -17px;
+  border: 2px solid var(--bone);
+  border-radius: 50%;
+  pointer-events: none;
+  opacity: 0;
+  z-index: 22;
+}
+
+#cdot {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 6px;
+  height: 6px;
+  margin: -3px 0 0 -3px;
+  background: var(--bone);
+  border-radius: 50%;
+  pointer-events: none;
+  opacity: 0;
+  z-index: 22;
+}
+
+#fcur {
+  position: absolute;
+  left: 0;
+  top: 0;
+  pointer-events: none;
+  opacity: 0;
+  z-index: 25;
+}
+
+#fcur svg {
+  display: block;
+  transform-origin: 4px 3px;
+}
+
+#fclick {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 60px;
+  height: 60px;
+  margin: -30px 0 0 -30px;
+  border: 2px solid var(--bone);
+  border-radius: 50%;
+  opacity: 0;
+  pointer-events: none;
+  z-index: 24;
+}
+
+/* ---------- 3D Day Square -> Receipt Flip Card ---------- */
+#flip,
+.flip-card {
+  position: absolute;
+  left: 0;
+  top: 0;
+  perspective: 1400px;
+  pointer-events: none;
+  visibility: hidden;
+  z-index: 18;
+}
+
+#flip .in,
+.flip-card .in {
+  position: absolute;
+  inset: 0;
+  transform-style: preserve-3d;
+}
+
+#flip .f,
+#flip .b,
+.flip-card .f,
+.flip-card .b {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+#flip .b,
+.flip-card .b {
+  transform: rotateY(180deg);
+  background: var(--bone);
+  color: var(--ink);
+  border: 2px solid var(--ink);
+  padding: 22px 24px;
+  overflow: hidden;
+}
+
+/* ---------- Receipts Slide-Over / Drawer ---------- */
+.receipts-drawer {
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 520px;
+  background: var(--bone);
+  color: var(--ink);
+  border-left: 3px solid var(--ink);
+  z-index: 28;
+  padding: 36px 36px 28px;
+  display: flex;
+  flex-direction: column;
+  transform: translateX(100%);
+  transition: transform 0.38s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.receipts-drawer.open {
+  transform: translateX(0);
+}
+
+.receipts-drawer .drawer-list {
+  flex: 1;
+  overflow-y: auto;
+  margin-top: 18px;
+  padding-right: 6px;
+}
+
+/* ---------- Phone Frame (390 × 844) ---------- */
+.phone {
+  width: 390px;
+  height: 844px;
+  overflow: hidden;
+  position: relative;
+  background: var(--ink);
+  color: var(--bone);
+  flex: none;
+}
+
+.phone .blk,
+.stage-phone .blk {
+  position: absolute;
+}
+
+.phone .lab,
+.stage-phone .lab {
+  position: absolute;
+  font-size: 10.5px;
+  letter-spacing: 0.12em;
+}
+
+body.film,
+body.tile-capture {
+  padding: 0;
+  margin: 0;
+  background: var(--ink);
+  overflow: hidden;
+}
+
+body.film #bar,
+body.tile-capture #bar {
+  display: none !important;
+}
+
+body.film #stagewrap,
+body.tile-capture #stagewrap {
+  margin: 0;
+}

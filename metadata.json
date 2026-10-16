@@ -1,0 +1,8 @@
+{
+  "name": "금융 이야기 - Managed Agent",
+  "description": "Google Drive 폴더, Google Sheet, Excel(.xlsx) 통합 문서 또는 CSV 장부 등 비즈니스와 관련된 모든 데이터를, 상호작용이 가능한 재무 스토리이자 데이터 탐색 도구, 그리고 자연어 질의가 가능한 분석 환경으로 탈바꿈시켜 보세요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,4526 @@
+[
+  {
+    "date": "2025-01-01",
+    "weekday": 2,
+    "week_index": 0,
+    "discretionary_out_minor": 2440,
+    "all_out_minor": 2440,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0001"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-02",
+    "weekday": 3,
+    "week_index": 0,
+    "discretionary_out_minor": 6774,
+    "all_out_minor": 6774,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0002"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-03",
+    "weekday": 4,
+    "week_index": 0,
+    "discretionary_out_minor": 29981,
+    "all_out_minor": 29981,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0003",
+      "MOCK-CARD-0004"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-04",
+    "weekday": 5,
+    "week_index": 0,
+    "discretionary_out_minor": 6832,
+    "all_out_minor": 6832,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0005"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-05",
+    "weekday": 6,
+    "week_index": 0,
+    "discretionary_out_minor": 34046,
+    "all_out_minor": 34046,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0006",
+      "MOCK-CARD-0007",
+      "MOCK-CARD-0008"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-06",
+    "weekday": 0,
+    "week_index": 1,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-07",
+    "weekday": 1,
+    "week_index": 1,
+    "discretionary_out_minor": 7982,
+    "all_out_minor": 7982,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0009",
+      "MOCK-CARD-0010"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-08",
+    "weekday": 2,
+    "week_index": 1,
+    "discretionary_out_minor": 24834,
+    "all_out_minor": 24834,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0011",
+      "MOCK-CARD-0012",
+      "MOCK-CARD-0013"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-09",
+    "weekday": 3,
+    "week_index": 1,
+    "discretionary_out_minor": 32558,
+    "all_out_minor": 46454,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0014",
+      "MOCK-CARD-0015",
+      "MOCK-CARD-0016"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-10",
+    "weekday": 4,
+    "week_index": 1,
+    "discretionary_out_minor": 6818,
+    "all_out_minor": 6818,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0017",
+      "MOCK-CARD-0018"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-11",
+    "weekday": 5,
+    "week_index": 1,
+    "discretionary_out_minor": 26043,
+    "all_out_minor": 26043,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0019"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-12",
+    "weekday": 6,
+    "week_index": 1,
+    "discretionary_out_minor": 25867,
+    "all_out_minor": 25867,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0020"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-13",
+    "weekday": 0,
+    "week_index": 2,
+    "discretionary_out_minor": 74830,
+    "all_out_minor": 74830,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0021",
+      "MOCK-CARD-0022",
+      "MOCK-CARD-0023"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-14",
+    "weekday": 1,
+    "week_index": 2,
+    "discretionary_out_minor": 7211,
+    "all_out_minor": 7211,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0024"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-15",
+    "weekday": 2,
+    "week_index": 2,
+    "discretionary_out_minor": 24430,
+    "all_out_minor": 24430,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0025",
+      "MOCK-CARD-0026",
+      "MOCK-CARD-0027"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-16",
+    "weekday": 3,
+    "week_index": 2,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 13584,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0028"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-17",
+    "weekday": 4,
+    "week_index": 2,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-18",
+    "weekday": 5,
+    "week_index": 2,
+    "discretionary_out_minor": 1113,
+    "all_out_minor": 14395,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0029",
+      "MOCK-CARD-0030"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-19",
+    "weekday": 6,
+    "week_index": 2,
+    "discretionary_out_minor": 22881,
+    "all_out_minor": 22881,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0031"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-20",
+    "weekday": 0,
+    "week_index": 3,
+    "discretionary_out_minor": 5478,
+    "all_out_minor": 5478,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0032"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-21",
+    "weekday": 1,
+    "week_index": 3,
+    "discretionary_out_minor": 17146,
+    "all_out_minor": 17146,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0033",
+      "MOCK-CARD-0034"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-22",
+    "weekday": 2,
+    "week_index": 3,
+    "discretionary_out_minor": 44630,
+    "all_out_minor": 44630,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0035",
+      "MOCK-CARD-0036",
+      "MOCK-CARD-0037"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-23",
+    "weekday": 3,
+    "week_index": 3,
+    "discretionary_out_minor": 29629,
+    "all_out_minor": 29629,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0038",
+      "MOCK-CARD-0039",
+      "MOCK-CARD-0040"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-24",
+    "weekday": 4,
+    "week_index": 3,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-25",
+    "weekday": 5,
+    "week_index": 3,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-26",
+    "weekday": 6,
+    "week_index": 3,
+    "discretionary_out_minor": 11578,
+    "all_out_minor": 11578,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0041"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-27",
+    "weekday": 0,
+    "week_index": 4,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-28",
+    "weekday": 1,
+    "week_index": 4,
+    "discretionary_out_minor": 14556,
+    "all_out_minor": 14556,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0042",
+      "MOCK-CARD-0043",
+      "MOCK-CARD-0044"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-29",
+    "weekday": 2,
+    "week_index": 4,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-30",
+    "weekday": 3,
+    "week_index": 4,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-31",
+    "weekday": 4,
+    "week_index": 4,
+    "discretionary_out_minor": 18243,
+    "all_out_minor": 18243,
+    "in_minor": 675000,
+    "txn_ids": [
+      "MOCK-SAV-0045",
+      "MOCK-CARD-0046",
+      "MOCK-CARD-0047",
+      "MOCK-CARD-0048"
+    ],
+    "is_payday": true
+  },
+  {
+    "date": "2025-02-01",
+    "weekday": 5,
+    "week_index": 4,
+    "discretionary_out_minor": 12267,
+    "all_out_minor": 12267,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0049",
+      "MOCK-CARD-0050",
+      "MOCK-CARD-0051"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-02",
+    "weekday": 6,
+    "week_index": 4,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 10048,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0052"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-03",
+    "weekday": 0,
+    "week_index": 5,
+    "discretionary_out_minor": 16872,
+    "all_out_minor": 16872,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0053",
+      "MOCK-CARD-0054",
+      "MOCK-CARD-0055"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-04",
+    "weekday": 1,
+    "week_index": 5,
+    "discretionary_out_minor": 27691,
+    "all_out_minor": 38176,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0056",
+      "MOCK-CARD-0057",
+      "MOCK-CARD-0058"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-05",
+    "weekday": 2,
+    "week_index": 5,
+    "discretionary_out_minor": 7087,
+    "all_out_minor": 7087,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0059"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-06",
+    "weekday": 3,
+    "week_index": 5,
+    "discretionary_out_minor": 30618,
+    "all_out_minor": 30618,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0060",
+      "MOCK-CARD-0061",
+      "MOCK-CARD-0062"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-07",
+    "weekday": 4,
+    "week_index": 5,
+    "discretionary_out_minor": 6315,
+    "all_out_minor": 6315,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0063"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-08",
+    "weekday": 5,
+    "week_index": 5,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-09",
+    "weekday": 6,
+    "week_index": 5,
+    "discretionary_out_minor": 37953,
+    "all_out_minor": 37953,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0064",
+      "MOCK-CARD-0065",
+      "MOCK-CARD-0066"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-10",
+    "weekday": 0,
+    "week_index": 6,
+    "discretionary_out_minor": 15231,
+    "all_out_minor": 15231,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0067",
+      "MOCK-CARD-0068",
+      "MOCK-CARD-0069"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-11",
+    "weekday": 1,
+    "week_index": 6,
+    "discretionary_out_minor": 15865,
+    "all_out_minor": 15865,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0070",
+      "MOCK-CARD-0071",
+      "MOCK-CARD-0072"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-12",
+    "weekday": 2,
+    "week_index": 6,
+    "discretionary_out_minor": 6124,
+    "all_out_minor": 6124,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0073",
+      "MOCK-CARD-0074"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-13",
+    "weekday": 3,
+    "week_index": 6,
+    "discretionary_out_minor": 45091,
+    "all_out_minor": 45091,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0075",
+      "MOCK-CARD-0076"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-14",
+    "weekday": 4,
+    "week_index": 6,
+    "discretionary_out_minor": 4275,
+    "all_out_minor": 26813,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0077",
+      "MOCK-CARD-0078",
+      "MOCK-CARD-0079"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-15",
+    "weekday": 5,
+    "week_index": 6,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-16",
+    "weekday": 6,
+    "week_index": 6,
+    "discretionary_out_minor": 23937,
+    "all_out_minor": 23937,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0080",
+      "MOCK-CARD-0081",
+      "MOCK-CARD-0082"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-17",
+    "weekday": 0,
+    "week_index": 7,
+    "discretionary_out_minor": 9963,
+    "all_out_minor": 9963,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0083",
+      "MOCK-CARD-0084",
+      "MOCK-CARD-0085"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-18",
+    "weekday": 1,
+    "week_index": 7,
+    "discretionary_out_minor": 7773,
+    "all_out_minor": 7773,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0086"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-19",
+    "weekday": 2,
+    "week_index": 7,
+    "discretionary_out_minor": 4889,
+    "all_out_minor": 4889,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0087"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-20",
+    "weekday": 3,
+    "week_index": 7,
+    "discretionary_out_minor": 4275,
+    "all_out_minor": 4275,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0088"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-21",
+    "weekday": 4,
+    "week_index": 7,
+    "discretionary_out_minor": 6582,
+    "all_out_minor": 6582,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0089"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-22",
+    "weekday": 5,
+    "week_index": 7,
+    "discretionary_out_minor": 25800,
+    "all_out_minor": 25800,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0090",
+      "MOCK-CARD-0091"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-23",
+    "weekday": 6,
+    "week_index": 7,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-24",
+    "weekday": 0,
+    "week_index": 8,
+    "discretionary_out_minor": 27919,
+    "all_out_minor": 27919,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0092"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-25",
+    "weekday": 1,
+    "week_index": 8,
+    "discretionary_out_minor": 5993,
+    "all_out_minor": 15595,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0093",
+      "MOCK-CARD-0094",
+      "MOCK-CARD-0095"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-26",
+    "weekday": 2,
+    "week_index": 8,
+    "discretionary_out_minor": 4146,
+    "all_out_minor": 17993,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0096",
+      "MOCK-CARD-0097",
+      "MOCK-CARD-0098"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-27",
+    "weekday": 3,
+    "week_index": 8,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-28",
+    "weekday": 4,
+    "week_index": 8,
+    "discretionary_out_minor": 12642,
+    "all_out_minor": 12642,
+    "in_minor": 675000,
+    "txn_ids": [
+      "MOCK-SAV-0099",
+      "MOCK-CARD-0100",
+      "MOCK-CARD-0101",
+      "MOCK-CARD-0102"
+    ],
+    "is_payday": true
+  },
+  {
+    "date": "2025-03-01",
+    "weekday": 5,
+    "week_index": 8,
+    "discretionary_out_minor": 16086,
+    "all_out_minor": 28358,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0103",
+      "MOCK-CARD-0104",
+      "MOCK-CARD-0105"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-02",
+    "weekday": 6,
+    "week_index": 8,
+    "discretionary_out_minor": 4275,
+    "all_out_minor": 4275,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0106"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-03",
+    "weekday": 0,
+    "week_index": 9,
+    "discretionary_out_minor": 4591,
+    "all_out_minor": 4591,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0107"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-04",
+    "weekday": 1,
+    "week_index": 9,
+    "discretionary_out_minor": 13318,
+    "all_out_minor": 13318,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0108",
+      "MOCK-CARD-0109",
+      "MOCK-CARD-0110"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-05",
+    "weekday": 2,
+    "week_index": 9,
+    "discretionary_out_minor": 12894,
+    "all_out_minor": 12894,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0111",
+      "MOCK-CARD-0112",
+      "MOCK-CARD-0113"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-06",
+    "weekday": 3,
+    "week_index": 9,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 10394,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0114"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-07",
+    "weekday": 4,
+    "week_index": 9,
+    "discretionary_out_minor": 12903,
+    "all_out_minor": 12903,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0115",
+      "MOCK-CARD-0116",
+      "MOCK-CARD-0117"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-08",
+    "weekday": 5,
+    "week_index": 9,
+    "discretionary_out_minor": 32771,
+    "all_out_minor": 32771,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0118",
+      "MOCK-CARD-0119",
+      "MOCK-CARD-0120"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-09",
+    "weekday": 6,
+    "week_index": 9,
+    "discretionary_out_minor": 22641,
+    "all_out_minor": 22641,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0121",
+      "MOCK-CARD-0122",
+      "MOCK-CARD-0123"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-10",
+    "weekday": 0,
+    "week_index": 10,
+    "discretionary_out_minor": 9753,
+    "all_out_minor": 22870,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0124",
+      "MOCK-CARD-0125",
+      "MOCK-CARD-0126"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-11",
+    "weekday": 1,
+    "week_index": 10,
+    "discretionary_out_minor": 15541,
+    "all_out_minor": 15541,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0127",
+      "MOCK-CARD-0128",
+      "MOCK-CARD-0129"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-12",
+    "weekday": 2,
+    "week_index": 10,
+    "discretionary_out_minor": 55439,
+    "all_out_minor": 55439,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0130",
+      "MOCK-CARD-0131",
+      "MOCK-CARD-0132"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-13",
+    "weekday": 3,
+    "week_index": 10,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-14",
+    "weekday": 4,
+    "week_index": 10,
+    "discretionary_out_minor": 1078,
+    "all_out_minor": 1078,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0133"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-15",
+    "weekday": 5,
+    "week_index": 10,
+    "discretionary_out_minor": 5478,
+    "all_out_minor": 5478,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0134"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-16",
+    "weekday": 6,
+    "week_index": 10,
+    "discretionary_out_minor": 18400,
+    "all_out_minor": 18400,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0135",
+      "MOCK-CARD-0136"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-17",
+    "weekday": 0,
+    "week_index": 11,
+    "discretionary_out_minor": 12660,
+    "all_out_minor": 12660,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0137",
+      "MOCK-CARD-0138",
+      "MOCK-CARD-0139"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-18",
+    "weekday": 1,
+    "week_index": 11,
+    "discretionary_out_minor": 6386,
+    "all_out_minor": 6386,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0140",
+      "MOCK-CARD-0141"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-19",
+    "weekday": 2,
+    "week_index": 11,
+    "discretionary_out_minor": 12269,
+    "all_out_minor": 12269,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0142",
+      "MOCK-CARD-0143"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-20",
+    "weekday": 3,
+    "week_index": 11,
+    "discretionary_out_minor": 4275,
+    "all_out_minor": 4275,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0144"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-21",
+    "weekday": 4,
+    "week_index": 11,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-22",
+    "weekday": 5,
+    "week_index": 11,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-23",
+    "weekday": 6,
+    "week_index": 11,
+    "discretionary_out_minor": 6789,
+    "all_out_minor": 6789,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0145",
+      "MOCK-CARD-0146"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-24",
+    "weekday": 0,
+    "week_index": 12,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-25",
+    "weekday": 1,
+    "week_index": 12,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 14122,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0147"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-26",
+    "weekday": 2,
+    "week_index": 12,
+    "discretionary_out_minor": 3546,
+    "all_out_minor": 30834,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0148",
+      "MOCK-CARD-0149",
+      "MOCK-CARD-0150"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-27",
+    "weekday": 3,
+    "week_index": 12,
+    "discretionary_out_minor": 5183,
+    "all_out_minor": 5183,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0151"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-28",
+    "weekday": 4,
+    "week_index": 12,
+    "discretionary_out_minor": 20220,
+    "all_out_minor": 20220,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0152",
+      "MOCK-CARD-0153",
+      "MOCK-CARD-0154"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-29",
+    "weekday": 5,
+    "week_index": 12,
+    "discretionary_out_minor": 4519,
+    "all_out_minor": 15221,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0155",
+      "MOCK-CARD-0156",
+      "MOCK-CARD-0157"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-30",
+    "weekday": 6,
+    "week_index": 12,
+    "discretionary_out_minor": 8053,
+    "all_out_minor": 8053,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0158",
+      "MOCK-CARD-0159"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-31",
+    "weekday": 0,
+    "week_index": 13,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 675000,
+    "txn_ids": [
+      "MOCK-SAV-0160"
+    ],
+    "is_payday": true
+  },
+  {
+    "date": "2025-04-01",
+    "weekday": 1,
+    "week_index": 13,
+    "discretionary_out_minor": 20297,
+    "all_out_minor": 20297,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0161"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-02",
+    "weekday": 2,
+    "week_index": 13,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-03",
+    "weekday": 3,
+    "week_index": 13,
+    "discretionary_out_minor": 3462,
+    "all_out_minor": 3462,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0162"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-04",
+    "weekday": 4,
+    "week_index": 13,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 12067,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0163"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-05",
+    "weekday": 5,
+    "week_index": 13,
+    "discretionary_out_minor": 5850,
+    "all_out_minor": 5850,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0164"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-06",
+    "weekday": 6,
+    "week_index": 13,
+    "discretionary_out_minor": 25819,
+    "all_out_minor": 25819,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0165",
+      "MOCK-CARD-0166",
+      "MOCK-CARD-0167"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-07",
+    "weekday": 0,
+    "week_index": 14,
+    "discretionary_out_minor": 20672,
+    "all_out_minor": 20672,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0168",
+      "MOCK-CARD-0169",
+      "MOCK-CARD-0170"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-08",
+    "weekday": 1,
+    "week_index": 14,
+    "discretionary_out_minor": 28012,
+    "all_out_minor": 28012,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0171",
+      "MOCK-CARD-0172"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-09",
+    "weekday": 2,
+    "week_index": 14,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-10",
+    "weekday": 3,
+    "week_index": 14,
+    "discretionary_out_minor": 3830,
+    "all_out_minor": 3830,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0173"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-11",
+    "weekday": 4,
+    "week_index": 14,
+    "discretionary_out_minor": 4275,
+    "all_out_minor": 4275,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0174"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-12",
+    "weekday": 5,
+    "week_index": 14,
+    "discretionary_out_minor": 5989,
+    "all_out_minor": 31296,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0175",
+      "MOCK-CARD-0176",
+      "MOCK-CARD-0177"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-13",
+    "weekday": 6,
+    "week_index": 14,
+    "discretionary_out_minor": 13969,
+    "all_out_minor": 13969,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0178",
+      "MOCK-CARD-0179"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-14",
+    "weekday": 0,
+    "week_index": 15,
+    "discretionary_out_minor": 52386,
+    "all_out_minor": 52386,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0180",
+      "MOCK-CARD-0181",
+      "MOCK-CARD-0182"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-15",
+    "weekday": 1,
+    "week_index": 15,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-16",
+    "weekday": 2,
+    "week_index": 15,
+    "discretionary_out_minor": 4275,
+    "all_out_minor": 4275,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0183"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-17",
+    "weekday": 3,
+    "week_index": 15,
+    "discretionary_out_minor": 5700,
+    "all_out_minor": 5700,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0184",
+      "MOCK-CARD-0185"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-18",
+    "weekday": 4,
+    "week_index": 15,
+    "discretionary_out_minor": 13318,
+    "all_out_minor": 13318,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0186",
+      "MOCK-CARD-0187"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-19",
+    "weekday": 5,
+    "week_index": 15,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-20",
+    "weekday": 6,
+    "week_index": 15,
+    "discretionary_out_minor": 7517,
+    "all_out_minor": 18102,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0188",
+      "MOCK-CARD-0189"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-21",
+    "weekday": 0,
+    "week_index": 16,
+    "discretionary_out_minor": 29393,
+    "all_out_minor": 29393,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0190"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-22",
+    "weekday": 1,
+    "week_index": 16,
+    "discretionary_out_minor": 54688,
+    "all_out_minor": 54688,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0191",
+      "MOCK-CARD-0192",
+      "MOCK-CARD-0193"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-23",
+    "weekday": 2,
+    "week_index": 16,
+    "discretionary_out_minor": 10913,
+    "all_out_minor": 10913,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0194",
+      "MOCK-CARD-0195"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-24",
+    "weekday": 3,
+    "week_index": 16,
+    "discretionary_out_minor": 4059,
+    "all_out_minor": 4059,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0196"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-25",
+    "weekday": 4,
+    "week_index": 16,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-26",
+    "weekday": 5,
+    "week_index": 16,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-27",
+    "weekday": 6,
+    "week_index": 16,
+    "discretionary_out_minor": 10030,
+    "all_out_minor": 10030,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0197",
+      "MOCK-CARD-0198"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-28",
+    "weekday": 0,
+    "week_index": 17,
+    "discretionary_out_minor": 11160,
+    "all_out_minor": 11160,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0199",
+      "MOCK-CARD-0200"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-29",
+    "weekday": 1,
+    "week_index": 17,
+    "discretionary_out_minor": 36164,
+    "all_out_minor": 36164,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0201",
+      "MOCK-CARD-0202",
+      "MOCK-CARD-0203"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-30",
+    "weekday": 2,
+    "week_index": 17,
+    "discretionary_out_minor": 6378,
+    "all_out_minor": 6378,
+    "in_minor": 675000,
+    "txn_ids": [
+      "MOCK-SAV-0204",
+      "MOCK-CARD-0205"
+    ],
+    "is_payday": true
+  },
+  {
+    "date": "2025-05-01",
+    "weekday": 3,
+    "week_index": 17,
+    "discretionary_out_minor": 5535,
+    "all_out_minor": 5535,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0206",
+      "MOCK-CARD-0207"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-02",
+    "weekday": 4,
+    "week_index": 17,
+    "discretionary_out_minor": 32540,
+    "all_out_minor": 32540,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0208",
+      "MOCK-CARD-0209",
+      "MOCK-CARD-0210"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-03",
+    "weekday": 5,
+    "week_index": 17,
+    "discretionary_out_minor": 2159,
+    "all_out_minor": 2159,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0211",
+      "MOCK-CARD-0212"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-04",
+    "weekday": 6,
+    "week_index": 17,
+    "discretionary_out_minor": 33500,
+    "all_out_minor": 46503,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0213",
+      "MOCK-CARD-0214",
+      "MOCK-CARD-0215"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-05",
+    "weekday": 0,
+    "week_index": 18,
+    "discretionary_out_minor": 41468,
+    "all_out_minor": 55471,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0216",
+      "MOCK-CARD-0217"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-06",
+    "weekday": 1,
+    "week_index": 18,
+    "discretionary_out_minor": 8550,
+    "all_out_minor": 8550,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0218",
+      "MOCK-CARD-0219"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-07",
+    "weekday": 2,
+    "week_index": 18,
+    "discretionary_out_minor": 13718,
+    "all_out_minor": 13718,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0220",
+      "MOCK-CARD-0221"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-08",
+    "weekday": 3,
+    "week_index": 18,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 10472,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0222"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-09",
+    "weekday": 4,
+    "week_index": 18,
+    "discretionary_out_minor": 2950,
+    "all_out_minor": 2950,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0223"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-10",
+    "weekday": 5,
+    "week_index": 18,
+    "discretionary_out_minor": 17371,
+    "all_out_minor": 17371,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0224",
+      "MOCK-CARD-0225",
+      "MOCK-CARD-0226"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-11",
+    "weekday": 6,
+    "week_index": 18,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-12",
+    "weekday": 0,
+    "week_index": 19,
+    "discretionary_out_minor": 5478,
+    "all_out_minor": 5478,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0227"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-13",
+    "weekday": 1,
+    "week_index": 19,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 13912,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0228"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-14",
+    "weekday": 2,
+    "week_index": 19,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-15",
+    "weekday": 3,
+    "week_index": 19,
+    "discretionary_out_minor": 2803,
+    "all_out_minor": 12994,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0229",
+      "MOCK-CARD-0230"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-16",
+    "weekday": 4,
+    "week_index": 19,
+    "discretionary_out_minor": 5478,
+    "all_out_minor": 5478,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0231"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-17",
+    "weekday": 5,
+    "week_index": 19,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 12222,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0232"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-18",
+    "weekday": 6,
+    "week_index": 19,
+    "discretionary_out_minor": 13080,
+    "all_out_minor": 13080,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0233",
+      "MOCK-CARD-0234",
+      "MOCK-CARD-0235"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-19",
+    "weekday": 0,
+    "week_index": 20,
+    "discretionary_out_minor": 35379,
+    "all_out_minor": 46210,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0236",
+      "MOCK-CARD-0237"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-20",
+    "weekday": 1,
+    "week_index": 20,
+    "discretionary_out_minor": 2897,
+    "all_out_minor": 13542,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0238",
+      "MOCK-CARD-0239"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-21",
+    "weekday": 2,
+    "week_index": 20,
+    "discretionary_out_minor": 4408,
+    "all_out_minor": 4408,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0240",
+      "MOCK-CARD-0241",
+      "MOCK-CARD-0242"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-22",
+    "weekday": 3,
+    "week_index": 20,
+    "discretionary_out_minor": 14116,
+    "all_out_minor": 26994,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0243",
+      "MOCK-CARD-0244"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-23",
+    "weekday": 4,
+    "week_index": 20,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-24",
+    "weekday": 5,
+    "week_index": 20,
+    "discretionary_out_minor": 6720,
+    "all_out_minor": 6720,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0245",
+      "MOCK-CARD-0246"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-25",
+    "weekday": 6,
+    "week_index": 20,
+    "discretionary_out_minor": 8195,
+    "all_out_minor": 8195,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0247",
+      "MOCK-CARD-0248"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-26",
+    "weekday": 0,
+    "week_index": 21,
+    "discretionary_out_minor": 13518,
+    "all_out_minor": 13518,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0249",
+      "MOCK-CARD-0250",
+      "MOCK-CARD-0251"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-27",
+    "weekday": 1,
+    "week_index": 21,
+    "discretionary_out_minor": 3134,
+    "all_out_minor": 3134,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0252"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-28",
+    "weekday": 2,
+    "week_index": 21,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-29",
+    "weekday": 3,
+    "week_index": 21,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-30",
+    "weekday": 4,
+    "week_index": 21,
+    "discretionary_out_minor": 1024,
+    "all_out_minor": 1024,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0253"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-31",
+    "weekday": 5,
+    "week_index": 21,
+    "discretionary_out_minor": 5478,
+    "all_out_minor": 16065,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0254",
+      "MOCK-CARD-0255"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-01",
+    "weekday": 6,
+    "week_index": 21,
+    "discretionary_out_minor": 1144,
+    "all_out_minor": 1144,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0256"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-02",
+    "weekday": 0,
+    "week_index": 22,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 12644,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0257"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-03",
+    "weekday": 1,
+    "week_index": 22,
+    "discretionary_out_minor": 4757,
+    "all_out_minor": 4757,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0258"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-04",
+    "weekday": 2,
+    "week_index": 22,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 10526,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0259"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-05",
+    "weekday": 3,
+    "week_index": 22,
+    "discretionary_out_minor": 7675,
+    "all_out_minor": 7675,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0260",
+      "MOCK-CARD-0261"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-06",
+    "weekday": 4,
+    "week_index": 22,
+    "discretionary_out_minor": 12585,
+    "all_out_minor": 12585,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0262",
+      "MOCK-CARD-0263"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-07",
+    "weekday": 5,
+    "week_index": 22,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-08",
+    "weekday": 6,
+    "week_index": 22,
+    "discretionary_out_minor": 28900,
+    "all_out_minor": 28900,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0264",
+      "MOCK-CARD-0265",
+      "MOCK-CARD-0266"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-09",
+    "weekday": 0,
+    "week_index": 23,
+    "discretionary_out_minor": 511,
+    "all_out_minor": 511,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0267"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-10",
+    "weekday": 1,
+    "week_index": 23,
+    "discretionary_out_minor": 8621,
+    "all_out_minor": 19900,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0268",
+      "MOCK-CARD-0269",
+      "MOCK-CARD-0270"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-11",
+    "weekday": 2,
+    "week_index": 23,
+    "discretionary_out_minor": 17885,
+    "all_out_minor": 17885,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0271",
+      "MOCK-CARD-0272",
+      "MOCK-CARD-0273"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-12",
+    "weekday": 3,
+    "week_index": 23,
+    "discretionary_out_minor": 14028,
+    "all_out_minor": 14028,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0274",
+      "MOCK-CARD-0275"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-13",
+    "weekday": 4,
+    "week_index": 23,
+    "discretionary_out_minor": 5056,
+    "all_out_minor": 5056,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0276"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-14",
+    "weekday": 5,
+    "week_index": 23,
+    "discretionary_out_minor": 9485,
+    "all_out_minor": 9485,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0277",
+      "MOCK-CARD-0278"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-15",
+    "weekday": 6,
+    "week_index": 23,
+    "discretionary_out_minor": 617,
+    "all_out_minor": 617,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0279"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-16",
+    "weekday": 0,
+    "week_index": 24,
+    "discretionary_out_minor": 8580,
+    "all_out_minor": 8580,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0280",
+      "MOCK-CARD-0281"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-17",
+    "weekday": 1,
+    "week_index": 24,
+    "discretionary_out_minor": 6425,
+    "all_out_minor": 6425,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0282"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-18",
+    "weekday": 2,
+    "week_index": 24,
+    "discretionary_out_minor": 39871,
+    "all_out_minor": 39871,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0283",
+      "MOCK-CARD-0284",
+      "MOCK-CARD-0285"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-19",
+    "weekday": 3,
+    "week_index": 24,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-20",
+    "weekday": 4,
+    "week_index": 24,
+    "discretionary_out_minor": 5478,
+    "all_out_minor": 5478,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0286"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-21",
+    "weekday": 5,
+    "week_index": 24,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-22",
+    "weekday": 6,
+    "week_index": 24,
+    "discretionary_out_minor": 17027,
+    "all_out_minor": 17027,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0287",
+      "MOCK-CARD-0288",
+      "MOCK-CARD-0289"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-23",
+    "weekday": 0,
+    "week_index": 25,
+    "discretionary_out_minor": 4060,
+    "all_out_minor": 4060,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0290"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-24",
+    "weekday": 1,
+    "week_index": 25,
+    "discretionary_out_minor": 13718,
+    "all_out_minor": 13718,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0291",
+      "MOCK-CARD-0292"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-25",
+    "weekday": 2,
+    "week_index": 25,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-26",
+    "weekday": 3,
+    "week_index": 25,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-27",
+    "weekday": 4,
+    "week_index": 25,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-28",
+    "weekday": 5,
+    "week_index": 25,
+    "discretionary_out_minor": 19372,
+    "all_out_minor": 19372,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0293",
+      "MOCK-CARD-0294",
+      "MOCK-CARD-0295"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-29",
+    "weekday": 6,
+    "week_index": 25,
+    "discretionary_out_minor": 15561,
+    "all_out_minor": 15561,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0296",
+      "MOCK-CARD-0297"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-30",
+    "weekday": 0,
+    "week_index": 26,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 675000,
+    "txn_ids": [
+      "MOCK-SAV-0298"
+    ],
+    "is_payday": true
+  },
+  {
+    "date": "2025-07-01",
+    "weekday": 1,
+    "week_index": 26,
+    "discretionary_out_minor": 2090,
+    "all_out_minor": 2090,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0299"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-02",
+    "weekday": 2,
+    "week_index": 26,
+    "discretionary_out_minor": 7931,
+    "all_out_minor": 7931,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0300",
+      "MOCK-CARD-0301"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-03",
+    "weekday": 3,
+    "week_index": 26,
+    "discretionary_out_minor": 4275,
+    "all_out_minor": 4275,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0302"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-04",
+    "weekday": 4,
+    "week_index": 26,
+    "discretionary_out_minor": 3859,
+    "all_out_minor": 3859,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0303"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-05",
+    "weekday": 5,
+    "week_index": 26,
+    "discretionary_out_minor": 26777,
+    "all_out_minor": 41153,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0304",
+      "MOCK-CARD-0305"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-06",
+    "weekday": 6,
+    "week_index": 26,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-07",
+    "weekday": 0,
+    "week_index": 27,
+    "discretionary_out_minor": 5990,
+    "all_out_minor": 5990,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0306",
+      "MOCK-CARD-0307",
+      "MOCK-CARD-0308"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-08",
+    "weekday": 1,
+    "week_index": 27,
+    "discretionary_out_minor": 7996,
+    "all_out_minor": 7996,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0309",
+      "MOCK-CARD-0310",
+      "MOCK-CARD-0311"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-09",
+    "weekday": 2,
+    "week_index": 27,
+    "discretionary_out_minor": 14106,
+    "all_out_minor": 23647,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0312",
+      "MOCK-CARD-0313"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-10",
+    "weekday": 3,
+    "week_index": 27,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-11",
+    "weekday": 4,
+    "week_index": 27,
+    "discretionary_out_minor": 13895,
+    "all_out_minor": 13895,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0314",
+      "MOCK-CARD-0315",
+      "MOCK-CARD-0316"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-12",
+    "weekday": 5,
+    "week_index": 27,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-13",
+    "weekday": 6,
+    "week_index": 27,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-14",
+    "weekday": 0,
+    "week_index": 28,
+    "discretionary_out_minor": 5301,
+    "all_out_minor": 5301,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0317",
+      "MOCK-CARD-0318"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-15",
+    "weekday": 1,
+    "week_index": 28,
+    "discretionary_out_minor": 5478,
+    "all_out_minor": 5478,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0319"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-16",
+    "weekday": 2,
+    "week_index": 28,
+    "discretionary_out_minor": 2954,
+    "all_out_minor": 2954,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0320"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-17",
+    "weekday": 3,
+    "week_index": 28,
+    "discretionary_out_minor": 8932,
+    "all_out_minor": 8932,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0321"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-18",
+    "weekday": 4,
+    "week_index": 28,
+    "discretionary_out_minor": 34195,
+    "all_out_minor": 34195,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0322",
+      "MOCK-CARD-0323"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-19",
+    "weekday": 5,
+    "week_index": 28,
+    "discretionary_out_minor": 2787,
+    "all_out_minor": 27972,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0324",
+      "MOCK-CARD-0325",
+      "MOCK-CARD-0326"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-20",
+    "weekday": 6,
+    "week_index": 28,
+    "discretionary_out_minor": 8267,
+    "all_out_minor": 8267,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0327",
+      "MOCK-CARD-0328"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-21",
+    "weekday": 0,
+    "week_index": 29,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-22",
+    "weekday": 1,
+    "week_index": 29,
+    "discretionary_out_minor": 9753,
+    "all_out_minor": 9753,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0329",
+      "MOCK-CARD-0330"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-23",
+    "weekday": 2,
+    "week_index": 29,
+    "discretionary_out_minor": 7828,
+    "all_out_minor": 7828,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0331"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-24",
+    "weekday": 3,
+    "week_index": 29,
+    "discretionary_out_minor": 45307,
+    "all_out_minor": 56130,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0332",
+      "MOCK-CARD-0333",
+      "MOCK-CARD-0334"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-25",
+    "weekday": 4,
+    "week_index": 29,
+    "discretionary_out_minor": 35761,
+    "all_out_minor": 35761,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0335",
+      "MOCK-CARD-0336",
+      "MOCK-CARD-0337"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-26",
+    "weekday": 5,
+    "week_index": 29,
+    "discretionary_out_minor": 11821,
+    "all_out_minor": 11821,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0338",
+      "MOCK-CARD-0339"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-27",
+    "weekday": 6,
+    "week_index": 29,
+    "discretionary_out_minor": 2501,
+    "all_out_minor": 2501,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0340",
+      "MOCK-CARD-0341"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-28",
+    "weekday": 0,
+    "week_index": 30,
+    "discretionary_out_minor": 60556,
+    "all_out_minor": 60556,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0342",
+      "MOCK-CARD-0343"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-29",
+    "weekday": 1,
+    "week_index": 30,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-30",
+    "weekday": 2,
+    "week_index": 30,
+    "discretionary_out_minor": 14996,
+    "all_out_minor": 27590,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0344",
+      "MOCK-CARD-0345",
+      "MOCK-CARD-0346"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-31",
+    "weekday": 3,
+    "week_index": 30,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 675000,
+    "txn_ids": [
+      "MOCK-SAV-0347"
+    ],
+    "is_payday": true
+  },
+  {
+    "date": "2025-08-01",
+    "weekday": 4,
+    "week_index": 30,
+    "discretionary_out_minor": 15916,
+    "all_out_minor": 15916,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0348"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-02",
+    "weekday": 5,
+    "week_index": 30,
+    "discretionary_out_minor": 5478,
+    "all_out_minor": 5478,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0349"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-03",
+    "weekday": 6,
+    "week_index": 30,
+    "discretionary_out_minor": 1232,
+    "all_out_minor": 1232,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0350"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-04",
+    "weekday": 0,
+    "week_index": 31,
+    "discretionary_out_minor": 13370,
+    "all_out_minor": 13370,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0351",
+      "MOCK-CARD-0352",
+      "MOCK-CARD-0353"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-05",
+    "weekday": 1,
+    "week_index": 31,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-06",
+    "weekday": 2,
+    "week_index": 31,
+    "discretionary_out_minor": 13263,
+    "all_out_minor": 13263,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0354",
+      "MOCK-CARD-0355"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-07",
+    "weekday": 3,
+    "week_index": 31,
+    "discretionary_out_minor": 30560,
+    "all_out_minor": 30560,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0356"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-08",
+    "weekday": 4,
+    "week_index": 31,
+    "discretionary_out_minor": 6858,
+    "all_out_minor": 6858,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0357",
+      "MOCK-CARD-0358"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-09",
+    "weekday": 5,
+    "week_index": 31,
+    "discretionary_out_minor": 13502,
+    "all_out_minor": 13502,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0359",
+      "MOCK-CARD-0360"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-10",
+    "weekday": 6,
+    "week_index": 31,
+    "discretionary_out_minor": 71900,
+    "all_out_minor": 71900,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0361",
+      "MOCK-CARD-0362",
+      "MOCK-CARD-0363"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-11",
+    "weekday": 0,
+    "week_index": 32,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-12",
+    "weekday": 1,
+    "week_index": 32,
+    "discretionary_out_minor": 5304,
+    "all_out_minor": 19678,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0364",
+      "MOCK-CARD-0365",
+      "MOCK-CARD-0366"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-13",
+    "weekday": 2,
+    "week_index": 32,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-14",
+    "weekday": 3,
+    "week_index": 32,
+    "discretionary_out_minor": 8038,
+    "all_out_minor": 19941,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0367",
+      "MOCK-CARD-0368",
+      "MOCK-CARD-0369"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-15",
+    "weekday": 4,
+    "week_index": 32,
+    "discretionary_out_minor": 15074,
+    "all_out_minor": 15074,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0370",
+      "MOCK-CARD-0371",
+      "MOCK-CARD-0372"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-16",
+    "weekday": 5,
+    "week_index": 32,
+    "discretionary_out_minor": 54664,
+    "all_out_minor": 54664,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0373",
+      "MOCK-CARD-0374"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-17",
+    "weekday": 6,
+    "week_index": 32,
+    "discretionary_out_minor": 5478,
+    "all_out_minor": 5478,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0375"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-18",
+    "weekday": 0,
+    "week_index": 33,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-19",
+    "weekday": 1,
+    "week_index": 33,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-20",
+    "weekday": 2,
+    "week_index": 33,
+    "discretionary_out_minor": 19115,
+    "all_out_minor": 19115,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0376",
+      "MOCK-CARD-0377",
+      "MOCK-CARD-0378"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-21",
+    "weekday": 3,
+    "week_index": 33,
+    "discretionary_out_minor": 28931,
+    "all_out_minor": 28931,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0379",
+      "MOCK-CARD-0380",
+      "MOCK-CARD-0381"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-22",
+    "weekday": 4,
+    "week_index": 33,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-23",
+    "weekday": 5,
+    "week_index": 33,
+    "discretionary_out_minor": 22414,
+    "all_out_minor": 35436,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0382",
+      "MOCK-CARD-0383"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-24",
+    "weekday": 6,
+    "week_index": 33,
+    "discretionary_out_minor": 27886,
+    "all_out_minor": 27886,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0384",
+      "MOCK-CARD-0385",
+      "MOCK-CARD-0386"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-25",
+    "weekday": 0,
+    "week_index": 34,
+    "discretionary_out_minor": 9551,
+    "all_out_minor": 9551,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0387",
+      "MOCK-CARD-0388",
+      "MOCK-CARD-0389"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-26",
+    "weekday": 1,
+    "week_index": 34,
+    "discretionary_out_minor": 22966,
+    "all_out_minor": 37313,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0390",
+      "MOCK-CARD-0391"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-27",
+    "weekday": 2,
+    "week_index": 34,
+    "discretionary_out_minor": 5478,
+    "all_out_minor": 5478,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0392"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-28",
+    "weekday": 3,
+    "week_index": 34,
+    "discretionary_out_minor": 13898,
+    "all_out_minor": 13898,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0393",
+      "MOCK-CARD-0394",
+      "MOCK-CARD-0395"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-29",
+    "weekday": 4,
+    "week_index": 34,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-30",
+    "weekday": 5,
+    "week_index": 34,
+    "discretionary_out_minor": 10418,
+    "all_out_minor": 22201,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0396",
+      "MOCK-CARD-0397"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-31",
+    "weekday": 6,
+    "week_index": 34,
+    "discretionary_out_minor": 1945,
+    "all_out_minor": 1945,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0398"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-01",
+    "weekday": 0,
+    "week_index": 35,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-02",
+    "weekday": 1,
+    "week_index": 35,
+    "discretionary_out_minor": 5643,
+    "all_out_minor": 19530,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0399",
+      "MOCK-CARD-0400"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-03",
+    "weekday": 2,
+    "week_index": 35,
+    "discretionary_out_minor": 29670,
+    "all_out_minor": 29670,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0401",
+      "MOCK-CARD-0402"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-04",
+    "weekday": 3,
+    "week_index": 35,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-05",
+    "weekday": 4,
+    "week_index": 35,
+    "discretionary_out_minor": 19519,
+    "all_out_minor": 19519,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0403"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-06",
+    "weekday": 5,
+    "week_index": 35,
+    "discretionary_out_minor": 22351,
+    "all_out_minor": 22351,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0404",
+      "MOCK-CARD-0405"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-07",
+    "weekday": 6,
+    "week_index": 35,
+    "discretionary_out_minor": 5966,
+    "all_out_minor": 5966,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0406"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-08",
+    "weekday": 0,
+    "week_index": 36,
+    "discretionary_out_minor": 26026,
+    "all_out_minor": 40343,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0407",
+      "MOCK-CARD-0408"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-09",
+    "weekday": 1,
+    "week_index": 36,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-10",
+    "weekday": 2,
+    "week_index": 36,
+    "discretionary_out_minor": 8929,
+    "all_out_minor": 8929,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0409",
+      "MOCK-CARD-0410",
+      "MOCK-CARD-0411"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-11",
+    "weekday": 3,
+    "week_index": 36,
+    "discretionary_out_minor": 18089,
+    "all_out_minor": 18089,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0412",
+      "MOCK-CARD-0413",
+      "MOCK-CARD-0414"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-12",
+    "weekday": 4,
+    "week_index": 36,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 11446,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0415"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-13",
+    "weekday": 5,
+    "week_index": 36,
+    "discretionary_out_minor": 16578,
+    "all_out_minor": 16578,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0416"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-14",
+    "weekday": 6,
+    "week_index": 36,
+    "discretionary_out_minor": 5478,
+    "all_out_minor": 5478,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0417"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-15",
+    "weekday": 0,
+    "week_index": 37,
+    "discretionary_out_minor": 13759,
+    "all_out_minor": 24735,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0418",
+      "MOCK-CARD-0419",
+      "MOCK-CARD-0420"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-16",
+    "weekday": 1,
+    "week_index": 37,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-17",
+    "weekday": 2,
+    "week_index": 37,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-18",
+    "weekday": 3,
+    "week_index": 37,
+    "discretionary_out_minor": 5478,
+    "all_out_minor": 5478,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0421"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-19",
+    "weekday": 4,
+    "week_index": 37,
+    "discretionary_out_minor": 46736,
+    "all_out_minor": 46736,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0422",
+      "MOCK-CARD-0423",
+      "MOCK-CARD-0424"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-20",
+    "weekday": 5,
+    "week_index": 37,
+    "discretionary_out_minor": 9384,
+    "all_out_minor": 9384,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0425",
+      "MOCK-CARD-0426",
+      "MOCK-CARD-0427"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-21",
+    "weekday": 6,
+    "week_index": 37,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 10648,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0428"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-22",
+    "weekday": 0,
+    "week_index": 38,
+    "discretionary_out_minor": 760,
+    "all_out_minor": 760,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0429"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-23",
+    "weekday": 1,
+    "week_index": 38,
+    "discretionary_out_minor": 4215,
+    "all_out_minor": 4215,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0430"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-24",
+    "weekday": 2,
+    "week_index": 38,
+    "discretionary_out_minor": 3585,
+    "all_out_minor": 3585,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0431"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-25",
+    "weekday": 3,
+    "week_index": 38,
+    "discretionary_out_minor": 4555,
+    "all_out_minor": 14603,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0432",
+      "MOCK-CARD-0433"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-26",
+    "weekday": 4,
+    "week_index": 38,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-27",
+    "weekday": 5,
+    "week_index": 38,
+    "discretionary_out_minor": 3375,
+    "all_out_minor": 14955,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0434",
+      "MOCK-CARD-0435"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-28",
+    "weekday": 6,
+    "week_index": 38,
+    "discretionary_out_minor": 24266,
+    "all_out_minor": 35255,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0436",
+      "MOCK-CARD-0437",
+      "MOCK-CARD-0438"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-29",
+    "weekday": 0,
+    "week_index": 39,
+    "discretionary_out_minor": 30607,
+    "all_out_minor": 43490,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0439",
+      "MOCK-CARD-0440",
+      "MOCK-CARD-0441"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-30",
+    "weekday": 1,
+    "week_index": 39,
+    "discretionary_out_minor": 12434,
+    "all_out_minor": 12434,
+    "in_minor": 675000,
+    "txn_ids": [
+      "MOCK-SAV-0442",
+      "MOCK-CARD-0443",
+      "MOCK-CARD-0444"
+    ],
+    "is_payday": true
+  },
+  {
+    "date": "2025-10-01",
+    "weekday": 2,
+    "week_index": 39,
+    "discretionary_out_minor": 6685,
+    "all_out_minor": 18489,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0445",
+      "MOCK-CARD-0446",
+      "MOCK-CARD-0447"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-02",
+    "weekday": 3,
+    "week_index": 39,
+    "discretionary_out_minor": 10725,
+    "all_out_minor": 10725,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0448",
+      "MOCK-CARD-0449",
+      "MOCK-CARD-0450"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-03",
+    "weekday": 4,
+    "week_index": 39,
+    "discretionary_out_minor": 16951,
+    "all_out_minor": 16951,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0451",
+      "MOCK-CARD-0452"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-04",
+    "weekday": 5,
+    "week_index": 39,
+    "discretionary_out_minor": 4813,
+    "all_out_minor": 4813,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0453",
+      "MOCK-CARD-0454"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-05",
+    "weekday": 6,
+    "week_index": 39,
+    "discretionary_out_minor": 23976,
+    "all_out_minor": 23976,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0455"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-06",
+    "weekday": 0,
+    "week_index": 40,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-07",
+    "weekday": 1,
+    "week_index": 40,
+    "discretionary_out_minor": 4275,
+    "all_out_minor": 4275,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0456"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-08",
+    "weekday": 2,
+    "week_index": 40,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-09",
+    "weekday": 3,
+    "week_index": 40,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-10",
+    "weekday": 4,
+    "week_index": 40,
+    "discretionary_out_minor": 5136,
+    "all_out_minor": 5136,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0457"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-11",
+    "weekday": 5,
+    "week_index": 40,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-12",
+    "weekday": 6,
+    "week_index": 40,
+    "discretionary_out_minor": 10250,
+    "all_out_minor": 10250,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0458",
+      "MOCK-CARD-0459"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-13",
+    "weekday": 0,
+    "week_index": 41,
+    "discretionary_out_minor": 11728,
+    "all_out_minor": 11728,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0460",
+      "MOCK-CARD-0461",
+      "MOCK-CARD-0462"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-14",
+    "weekday": 1,
+    "week_index": 41,
+    "discretionary_out_minor": 24049,
+    "all_out_minor": 24049,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0463"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-15",
+    "weekday": 2,
+    "week_index": 41,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-16",
+    "weekday": 3,
+    "week_index": 41,
+    "discretionary_out_minor": 18565,
+    "all_out_minor": 18565,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0464",
+      "MOCK-CARD-0465",
+      "MOCK-CARD-0466"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-17",
+    "weekday": 4,
+    "week_index": 41,
+    "discretionary_out_minor": 10714,
+    "all_out_minor": 10714,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0467",
+      "MOCK-CARD-0468"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-18",
+    "weekday": 5,
+    "week_index": 41,
+    "discretionary_out_minor": 5478,
+    "all_out_minor": 5478,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0469"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-19",
+    "weekday": 6,
+    "week_index": 41,
+    "discretionary_out_minor": 16729,
+    "all_out_minor": 30453,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0470",
+      "MOCK-CARD-0471",
+      "MOCK-CARD-0472"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-20",
+    "weekday": 0,
+    "week_index": 42,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 11823,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0473"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-21",
+    "weekday": 1,
+    "week_index": 42,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 14058,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0474"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-22",
+    "weekday": 2,
+    "week_index": 42,
+    "discretionary_out_minor": 14241,
+    "all_out_minor": 14241,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0475",
+      "MOCK-CARD-0476"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-23",
+    "weekday": 3,
+    "week_index": 42,
+    "discretionary_out_minor": 7490,
+    "all_out_minor": 7490,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0477"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-24",
+    "weekday": 4,
+    "week_index": 42,
+    "discretionary_out_minor": 4275,
+    "all_out_minor": 4275,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0478"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-25",
+    "weekday": 5,
+    "week_index": 42,
+    "discretionary_out_minor": 3055,
+    "all_out_minor": 3055,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0479"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-26",
+    "weekday": 6,
+    "week_index": 42,
+    "discretionary_out_minor": 8501,
+    "all_out_minor": 8501,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0480",
+      "MOCK-CARD-0481"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-27",
+    "weekday": 0,
+    "week_index": 43,
+    "discretionary_out_minor": 5478,
+    "all_out_minor": 5478,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0482"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-28",
+    "weekday": 1,
+    "week_index": 43,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-29",
+    "weekday": 2,
+    "week_index": 43,
+    "discretionary_out_minor": 13989,
+    "all_out_minor": 13989,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0483",
+      "MOCK-CARD-0484"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-30",
+    "weekday": 3,
+    "week_index": 43,
+    "discretionary_out_minor": 68815,
+    "all_out_minor": 68815,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0485",
+      "MOCK-CARD-0486",
+      "MOCK-CARD-0487"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-31",
+    "weekday": 4,
+    "week_index": 43,
+    "discretionary_out_minor": 10159,
+    "all_out_minor": 21398,
+    "in_minor": 675000,
+    "txn_ids": [
+      "MOCK-SAV-0488",
+      "MOCK-CARD-0489",
+      "MOCK-CARD-0490",
+      "MOCK-CARD-0491"
+    ],
+    "is_payday": true
+  },
+  {
+    "date": "2025-11-01",
+    "weekday": 5,
+    "week_index": 43,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-02",
+    "weekday": 6,
+    "week_index": 43,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-03",
+    "weekday": 0,
+    "week_index": 44,
+    "discretionary_out_minor": 61442,
+    "all_out_minor": 61442,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0492",
+      "MOCK-CARD-0493"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-04",
+    "weekday": 1,
+    "week_index": 44,
+    "discretionary_out_minor": 9753,
+    "all_out_minor": 9753,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0494",
+      "MOCK-CARD-0495"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-05",
+    "weekday": 2,
+    "week_index": 44,
+    "discretionary_out_minor": 25220,
+    "all_out_minor": 25220,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0496"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-06",
+    "weekday": 3,
+    "week_index": 44,
+    "discretionary_out_minor": 40432,
+    "all_out_minor": 40432,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0497",
+      "MOCK-CARD-0498"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-07",
+    "weekday": 4,
+    "week_index": 44,
+    "discretionary_out_minor": 4613,
+    "all_out_minor": 4613,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0499"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-08",
+    "weekday": 5,
+    "week_index": 44,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-09",
+    "weekday": 6,
+    "week_index": 44,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-10",
+    "weekday": 0,
+    "week_index": 45,
+    "discretionary_out_minor": 13547,
+    "all_out_minor": 13547,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0500",
+      "MOCK-CARD-0501",
+      "MOCK-CARD-0502"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-11",
+    "weekday": 1,
+    "week_index": 45,
+    "discretionary_out_minor": 39112,
+    "all_out_minor": 39112,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0503",
+      "MOCK-CARD-0504",
+      "MOCK-CARD-0505"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-12",
+    "weekday": 2,
+    "week_index": 45,
+    "discretionary_out_minor": 30884,
+    "all_out_minor": 30884,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0506"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-13",
+    "weekday": 3,
+    "week_index": 45,
+    "discretionary_out_minor": 6823,
+    "all_out_minor": 6823,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0507"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-14",
+    "weekday": 4,
+    "week_index": 45,
+    "discretionary_out_minor": 53508,
+    "all_out_minor": 53508,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0508",
+      "MOCK-CARD-0509",
+      "MOCK-CARD-0510"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-15",
+    "weekday": 5,
+    "week_index": 45,
+    "discretionary_out_minor": 593,
+    "all_out_minor": 593,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0511"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-16",
+    "weekday": 6,
+    "week_index": 45,
+    "discretionary_out_minor": 729,
+    "all_out_minor": 729,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0512"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-17",
+    "weekday": 0,
+    "week_index": 46,
+    "discretionary_out_minor": 5478,
+    "all_out_minor": 5478,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0513"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-18",
+    "weekday": 1,
+    "week_index": 46,
+    "discretionary_out_minor": 10149,
+    "all_out_minor": 10149,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0514",
+      "MOCK-CARD-0515"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-19",
+    "weekday": 2,
+    "week_index": 46,
+    "discretionary_out_minor": 10842,
+    "all_out_minor": 10842,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0516",
+      "MOCK-CARD-0517",
+      "MOCK-CARD-0518"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-20",
+    "weekday": 3,
+    "week_index": 46,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-21",
+    "weekday": 4,
+    "week_index": 46,
+    "discretionary_out_minor": 22512,
+    "all_out_minor": 22512,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0519",
+      "MOCK-CARD-0520",
+      "MOCK-CARD-0521"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-22",
+    "weekday": 5,
+    "week_index": 46,
+    "discretionary_out_minor": 20685,
+    "all_out_minor": 20685,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0522",
+      "MOCK-CARD-0523",
+      "MOCK-CARD-0524"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-23",
+    "weekday": 6,
+    "week_index": 46,
+    "discretionary_out_minor": 8105,
+    "all_out_minor": 8105,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0525",
+      "MOCK-CARD-0526"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-24",
+    "weekday": 0,
+    "week_index": 47,
+    "discretionary_out_minor": 7389,
+    "all_out_minor": 7389,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0527",
+      "MOCK-CARD-0528"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-25",
+    "weekday": 1,
+    "week_index": 47,
+    "discretionary_out_minor": 16308,
+    "all_out_minor": 16308,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0529",
+      "MOCK-CARD-0530"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-26",
+    "weekday": 2,
+    "week_index": 47,
+    "discretionary_out_minor": 1804,
+    "all_out_minor": 1804,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0531"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-27",
+    "weekday": 3,
+    "week_index": 47,
+    "discretionary_out_minor": 15092,
+    "all_out_minor": 15092,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0532",
+      "MOCK-CARD-0533",
+      "MOCK-CARD-0534"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-28",
+    "weekday": 4,
+    "week_index": 47,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-29",
+    "weekday": 5,
+    "week_index": 47,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-30",
+    "weekday": 6,
+    "week_index": 47,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-01",
+    "weekday": 0,
+    "week_index": 48,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-02",
+    "weekday": 1,
+    "week_index": 48,
+    "discretionary_out_minor": 6896,
+    "all_out_minor": 6896,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0535",
+      "MOCK-CARD-0536"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-03",
+    "weekday": 2,
+    "week_index": 48,
+    "discretionary_out_minor": 6274,
+    "all_out_minor": 6274,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0537",
+      "MOCK-CARD-0538"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-04",
+    "weekday": 3,
+    "week_index": 48,
+    "discretionary_out_minor": 8052,
+    "all_out_minor": 8052,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0539"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-05",
+    "weekday": 4,
+    "week_index": 48,
+    "discretionary_out_minor": 6652,
+    "all_out_minor": 6652,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0540",
+      "MOCK-CARD-0541"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-06",
+    "weekday": 5,
+    "week_index": 48,
+    "discretionary_out_minor": 3164,
+    "all_out_minor": 3164,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0542"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-07",
+    "weekday": 6,
+    "week_index": 48,
+    "discretionary_out_minor": 1071,
+    "all_out_minor": 1071,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0543"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-08",
+    "weekday": 0,
+    "week_index": 49,
+    "discretionary_out_minor": 39068,
+    "all_out_minor": 39068,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0544",
+      "MOCK-CARD-0545"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-09",
+    "weekday": 1,
+    "week_index": 49,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-10",
+    "weekday": 2,
+    "week_index": 49,
+    "discretionary_out_minor": 43615,
+    "all_out_minor": 43615,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0546",
+      "MOCK-CARD-0547",
+      "MOCK-CARD-0548"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-11",
+    "weekday": 3,
+    "week_index": 49,
+    "discretionary_out_minor": 4469,
+    "all_out_minor": 4469,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0549"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-12",
+    "weekday": 4,
+    "week_index": 49,
+    "discretionary_out_minor": 6515,
+    "all_out_minor": 6515,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0550",
+      "MOCK-CARD-0551",
+      "MOCK-CARD-0552"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-13",
+    "weekday": 5,
+    "week_index": 49,
+    "discretionary_out_minor": 751,
+    "all_out_minor": 751,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0553"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-14",
+    "weekday": 6,
+    "week_index": 49,
+    "discretionary_out_minor": 14697,
+    "all_out_minor": 14697,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0554",
+      "MOCK-CARD-0555"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-15",
+    "weekday": 0,
+    "week_index": 50,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-16",
+    "weekday": 1,
+    "week_index": 50,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-17",
+    "weekday": 2,
+    "week_index": 50,
+    "discretionary_out_minor": 6086,
+    "all_out_minor": 6086,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0556",
+      "MOCK-CARD-0557",
+      "MOCK-CARD-0558"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-18",
+    "weekday": 3,
+    "week_index": 50,
+    "discretionary_out_minor": 1084,
+    "all_out_minor": 1084,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0559"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-19",
+    "weekday": 4,
+    "week_index": 50,
+    "discretionary_out_minor": 9500,
+    "all_out_minor": 22859,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0560",
+      "MOCK-CARD-0561",
+      "MOCK-CARD-0562"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-20",
+    "weekday": 5,
+    "week_index": 50,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-21",
+    "weekday": 6,
+    "week_index": 50,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-22",
+    "weekday": 0,
+    "week_index": 51,
+    "discretionary_out_minor": 499,
+    "all_out_minor": 12944,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0563",
+      "MOCK-CARD-0564"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-23",
+    "weekday": 1,
+    "week_index": 51,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-24",
+    "weekday": 2,
+    "week_index": 51,
+    "discretionary_out_minor": 22257,
+    "all_out_minor": 22257,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0565",
+      "MOCK-CARD-0566"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-25",
+    "weekday": 3,
+    "week_index": 51,
+    "discretionary_out_minor": 5975,
+    "all_out_minor": 5975,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0567",
+      "MOCK-CARD-0568"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-26",
+    "weekday": 4,
+    "week_index": 51,
+    "discretionary_out_minor": 15583,
+    "all_out_minor": 15583,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0569",
+      "MOCK-CARD-0570",
+      "MOCK-CARD-0571"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-27",
+    "weekday": 5,
+    "week_index": 51,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 14227,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0572"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-28",
+    "weekday": 6,
+    "week_index": 51,
+    "discretionary_out_minor": 48213,
+    "all_out_minor": 48213,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0573",
+      "MOCK-CARD-0574",
+      "MOCK-CARD-0575"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-29",
+    "weekday": 0,
+    "week_index": 52,
+    "discretionary_out_minor": 5478,
+    "all_out_minor": 5478,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0576"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-30",
+    "weekday": 1,
+    "week_index": 52,
+    "discretionary_out_minor": 7199,
+    "all_out_minor": 7199,
+    "in_minor": 0,
+    "txn_ids": [
+      "MOCK-CARD-0577",
+      "MOCK-CARD-0578"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-31",
+    "weekday": 2,
+    "week_index": 52,
+    "discretionary_out_minor": 12598,
+    "all_out_minor": 12598,
+    "in_minor": 675000,
+    "txn_ids": [
+      "MOCK-SAV-0579",
+      "MOCK-CARD-0580",
+      "MOCK-CARD-0581"
+    ],
+    "is_payday": true
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "name": "sam-2025-year-in-money",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "An app just for me — Sam's 2025 in money",
+  "scripts": {
+    "dev": "tsx server.ts",
+    "vite:dev": "vite --port 4173",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --port 4173",
+    "start": "tsx server.ts",
+    "server": "tsx server/index.ts",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint .",
+    "format": "prettier --write \"src/**/*.ts\" \"contracts/**/*.ts\" \"pipeline/**/*.ts\" \"story/**/*.ts\" \"server/**/*.ts\" \"scripts/**/*.ts\" \"tests/**/*.ts\"",
+    "format:check": "prettier --check \"src/**/*.ts\" \"contracts/**/*.ts\" \"pipeline/**/*.ts\" \"story/**/*.ts\" \"server/**/*.ts\" \"scripts/**/*.ts\" \"tests/**/*.ts\"",
+    "test": "vitest run --no-file-parallelism",
+    "fact-lint": "tsx scripts/fact-lint.ts",
+    "pipeline": "tsx pipeline/run.ts",
+    "story": "tsx story/generate.ts",
+    "capture": "tsx scripts/capture.ts",
+    "check": "npm run typecheck && npm run lint && npm run test && npm run fact-lint"
+  },
+  "dependencies": {
+    "@fontsource/inter-tight": "5.1.0",
+    "@fontsource/jetbrains-mono": "5.1.0",
+    "gsap": "3.12.5",
+    "pixi.js": "8.6.6",
+    "tsx": "4.19.2",
+    "vite": "6.0.5"
+  },
+  "devDependencies": {
+    "@eslint/js": "9.17.0",
+    "@playwright/test": "1.49.1",
+    "@types/node": "22.10.2",
+    "eslint": "9.17.0",
+    "playwright": "1.49.1",
+    "prettier": "3.4.2",
+    "typescript": "5.7.2",
+    "typescript-eslint": "8.18.1",
+    "vitest": "2.1.8"
+  }
+}

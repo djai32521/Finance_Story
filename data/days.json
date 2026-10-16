@@ -1,0 +1,4944 @@
+[
+  {
+    "date": "2025-01-01",
+    "weekday": 2,
+    "week_index": 0,
+    "discretionary_out_minor": 1910,
+    "all_out_minor": 1910,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025010201",
+      "CARD-2025010202"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-02",
+    "weekday": 3,
+    "week_index": 0,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 2690,
+    "in_minor": 6898,
+    "txn_ids": [
+      "SAV-2025010201",
+      "SAV-2025010202"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-03",
+    "weekday": 4,
+    "week_index": 0,
+    "discretionary_out_minor": 2988,
+    "all_out_minor": 2988,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025010301",
+      "CARD-2025010401",
+      "SAV-2025010301",
+      "SAV-2025010302"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-04",
+    "weekday": 5,
+    "week_index": 0,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-05",
+    "weekday": 6,
+    "week_index": 0,
+    "discretionary_out_minor": 5478,
+    "all_out_minor": 5478,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025010701"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-06",
+    "weekday": 0,
+    "week_index": 1,
+    "discretionary_out_minor": 1060,
+    "all_out_minor": 1060,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025010702",
+      "CARD-2025010703",
+      "SAV-2025010601"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-07",
+    "weekday": 1,
+    "week_index": 1,
+    "discretionary_out_minor": 16091,
+    "all_out_minor": 16091,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025010801",
+      "CARD-2025010802"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-08",
+    "weekday": 2,
+    "week_index": 1,
+    "discretionary_out_minor": 5155,
+    "all_out_minor": 5155,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025010901",
+      "CARD-2025010902",
+      "CARD-2025010903",
+      "CARD-2025011001",
+      "CARD-2025011002"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-09",
+    "weekday": 3,
+    "week_index": 1,
+    "discretionary_out_minor": 7562,
+    "all_out_minor": 127562,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025010904",
+      "CARD-2025010905",
+      "CARD-2025011003",
+      "CARD-2025011004",
+      "SAV-2025010901",
+      "SAV-2025010902",
+      "SAV-2025010903"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-10",
+    "weekday": 4,
+    "week_index": 1,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-11",
+    "weekday": 5,
+    "week_index": 1,
+    "discretionary_out_minor": 5352,
+    "all_out_minor": 85352,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025011201",
+      "CARD-2025011202",
+      "SAV-2025011101"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-12",
+    "weekday": 6,
+    "week_index": 1,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-13",
+    "weekday": 0,
+    "week_index": 2,
+    "discretionary_out_minor": 7798,
+    "all_out_minor": 7798,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025011301",
+      "CARD-2025011401",
+      "CARD-2025011402",
+      "SAV-2025011301"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-14",
+    "weekday": 1,
+    "week_index": 2,
+    "discretionary_out_minor": 6481,
+    "all_out_minor": 6701,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025011403",
+      "CARD-2025011404",
+      "CARD-2025011405",
+      "CARD-2025011501",
+      "CARD-2025011502",
+      "SAV-2025011401"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-15",
+    "weekday": 2,
+    "week_index": 2,
+    "discretionary_out_minor": 183792,
+    "all_out_minor": 183792,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025011601",
+      "SAV-2025011501"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-16",
+    "weekday": 3,
+    "week_index": 2,
+    "discretionary_out_minor": 27021,
+    "all_out_minor": 27021,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025011602",
+      "CARD-2025011603",
+      "CARD-2025011701",
+      "CARD-2025011702",
+      "SAV-2025011601"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-17",
+    "weekday": 4,
+    "week_index": 2,
+    "discretionary_out_minor": 17258,
+    "all_out_minor": 17435,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025011703",
+      "CARD-2025012001",
+      "CARD-2025012002"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-18",
+    "weekday": 5,
+    "week_index": 2,
+    "discretionary_out_minor": 4728,
+    "all_out_minor": 4728,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025011901",
+      "CARD-2025011902",
+      "SAV-2025011801"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-19",
+    "weekday": 6,
+    "week_index": 2,
+    "discretionary_out_minor": 7806,
+    "all_out_minor": 7806,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025012003",
+      "CARD-2025012004",
+      "CARD-2025012005"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-20",
+    "weekday": 0,
+    "week_index": 3,
+    "discretionary_out_minor": 10573,
+    "all_out_minor": 10573,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025012101",
+      "CARD-2025012102",
+      "CARD-2025012103"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-21",
+    "weekday": 1,
+    "week_index": 3,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-22",
+    "weekday": 2,
+    "week_index": 3,
+    "discretionary_out_minor": 11805,
+    "all_out_minor": 11805,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025012301",
+      "CARD-2025012302",
+      "CARD-2025012303"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-23",
+    "weekday": 3,
+    "week_index": 3,
+    "discretionary_out_minor": 4813,
+    "all_out_minor": 9313,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025012401",
+      "CARD-2025012402"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-24",
+    "weekday": 4,
+    "week_index": 3,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-25",
+    "weekday": 5,
+    "week_index": 3,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-26",
+    "weekday": 6,
+    "week_index": 3,
+    "discretionary_out_minor": 7633,
+    "all_out_minor": 7633,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025012601",
+      "CARD-2025012701",
+      "CARD-2025012801",
+      "CARD-2025012802",
+      "SAV-2025012601"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-27",
+    "weekday": 0,
+    "week_index": 4,
+    "discretionary_out_minor": 31980,
+    "all_out_minor": 31980,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025012702",
+      "CARD-2025012803",
+      "CARD-2025012804",
+      "CARD-2025012901",
+      "SAV-2025012701"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-28",
+    "weekday": 1,
+    "week_index": 4,
+    "discretionary_out_minor": 42359,
+    "all_out_minor": 42359,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025012805",
+      "CARD-2025012806",
+      "CARD-2025012902",
+      "CARD-2025012903",
+      "CARD-2025012904",
+      "CARD-2025012905",
+      "SAV-2025012801"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-29",
+    "weekday": 2,
+    "week_index": 4,
+    "discretionary_out_minor": 12304,
+    "all_out_minor": 27366,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025013001",
+      "CARD-2025013002",
+      "CARD-2025013003",
+      "CARD-2025013004",
+      "CARD-2025013005"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-30",
+    "weekday": 3,
+    "week_index": 4,
+    "discretionary_out_minor": 9900,
+    "all_out_minor": 9900,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025013006",
+      "CARD-2025013101",
+      "CARD-2025013102",
+      "CARD-2025013103",
+      "CARD-2025013104",
+      "CARD-2025013105"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-01-31",
+    "weekday": 4,
+    "week_index": 4,
+    "discretionary_out_minor": 7628,
+    "all_out_minor": 7628,
+    "in_minor": 675000,
+    "txn_ids": [
+      "CARD-2025013106",
+      "CARD-2025013107",
+      "CARD-2025013108",
+      "SAV-2025013101"
+    ],
+    "is_payday": true
+  },
+  {
+    "date": "2025-02-01",
+    "weekday": 5,
+    "week_index": 4,
+    "discretionary_out_minor": 4104,
+    "all_out_minor": 4104,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025020201",
+      "CARD-2025020301"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-02",
+    "weekday": 6,
+    "week_index": 4,
+    "discretionary_out_minor": 9429,
+    "all_out_minor": 13591,
+    "in_minor": 10672,
+    "txn_ids": [
+      "CARD-2025020202",
+      "CARD-2025020302",
+      "CARD-2025020303",
+      "CARD-2025020304",
+      "SAV-2025020201",
+      "SAV-2025020202",
+      "SAV-2025020203"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-03",
+    "weekday": 0,
+    "week_index": 5,
+    "discretionary_out_minor": 16715,
+    "all_out_minor": 27937,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025020401",
+      "CARD-2025020402",
+      "CARD-2025020403",
+      "SAV-2025020301"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-04",
+    "weekday": 1,
+    "week_index": 5,
+    "discretionary_out_minor": 24578,
+    "all_out_minor": 24578,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025020404",
+      "CARD-2025020501",
+      "CARD-2025020502",
+      "CARD-2025020503",
+      "CARD-2025020504"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-05",
+    "weekday": 2,
+    "week_index": 5,
+    "discretionary_out_minor": 12247,
+    "all_out_minor": 12247,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025020601",
+      "CARD-2025020602",
+      "CARD-2025020701"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-06",
+    "weekday": 3,
+    "week_index": 5,
+    "discretionary_out_minor": 21197,
+    "all_out_minor": 141197,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025020603",
+      "CARD-2025020702",
+      "CARD-2025020703",
+      "CARD-2025020704",
+      "SAV-2025020601"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-07",
+    "weekday": 4,
+    "week_index": 5,
+    "discretionary_out_minor": 25844,
+    "all_out_minor": 37199,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025020705",
+      "CARD-2025020801",
+      "CARD-2025020802",
+      "CARD-2025020803",
+      "CARD-2025020804",
+      "SAV-2025020701"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-08",
+    "weekday": 5,
+    "week_index": 5,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 80000,
+    "in_minor": 0,
+    "txn_ids": [
+      "SAV-2025020801"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-09",
+    "weekday": 6,
+    "week_index": 5,
+    "discretionary_out_minor": 17318,
+    "all_out_minor": 17681,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025021101",
+      "CARD-2025021102",
+      "CARD-2025021103",
+      "CARD-2025021104"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-10",
+    "weekday": 0,
+    "week_index": 6,
+    "discretionary_out_minor": 2458,
+    "all_out_minor": 3958,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025021105",
+      "CARD-2025021201",
+      "SAV-2025021001"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-11",
+    "weekday": 1,
+    "week_index": 6,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [
+      "SAV-2025021101"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-12",
+    "weekday": 2,
+    "week_index": 6,
+    "discretionary_out_minor": 48572,
+    "all_out_minor": 58671,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025021301",
+      "CARD-2025021302",
+      "CARD-2025021303",
+      "CARD-2025021304",
+      "CARD-2025021305",
+      "CARD-2025021306",
+      "CARD-2025021401",
+      "CARD-2025021402"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-13",
+    "weekday": 3,
+    "week_index": 6,
+    "discretionary_out_minor": 22789,
+    "all_out_minor": 22789,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025021307",
+      "CARD-2025021403",
+      "SAV-2025021301",
+      "SAV-2025021302",
+      "SAV-2025021303"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-14",
+    "weekday": 4,
+    "week_index": 6,
+    "discretionary_out_minor": 4240,
+    "all_out_minor": 4240,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025021404",
+      "CARD-2025021501",
+      "CARD-2025021502",
+      "CARD-2025021503",
+      "SAV-2025021401"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-15",
+    "weekday": 5,
+    "week_index": 6,
+    "discretionary_out_minor": 1170,
+    "all_out_minor": 1170,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025021601"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-16",
+    "weekday": 6,
+    "week_index": 6,
+    "discretionary_out_minor": 7834,
+    "all_out_minor": 7834,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025021602",
+      "CARD-2025021701",
+      "CARD-2025021702",
+      "CARD-2025021703"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-17",
+    "weekday": 0,
+    "week_index": 7,
+    "discretionary_out_minor": 9032,
+    "all_out_minor": 9032,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025021801",
+      "CARD-2025021802",
+      "CARD-2025021803"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-18",
+    "weekday": 1,
+    "week_index": 7,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [
+      "SAV-2025021801"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-19",
+    "weekday": 2,
+    "week_index": 7,
+    "discretionary_out_minor": 24164,
+    "all_out_minor": 24164,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025021901",
+      "CARD-2025021902",
+      "CARD-2025022001"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-20",
+    "weekday": 3,
+    "week_index": 7,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 4500,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025022101"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-21",
+    "weekday": 4,
+    "week_index": 7,
+    "discretionary_out_minor": 8033,
+    "all_out_minor": 8033,
+    "in_minor": 2500,
+    "txn_ids": [
+      "CARD-2025022102",
+      "CARD-2025022201",
+      "CARD-2025022202",
+      "SAV-2025022101",
+      "SAV-2025022102"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-22",
+    "weekday": 5,
+    "week_index": 7,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-23",
+    "weekday": 6,
+    "week_index": 7,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-24",
+    "weekday": 0,
+    "week_index": 8,
+    "discretionary_out_minor": 10994,
+    "all_out_minor": 10994,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025022601",
+      "CARD-2025022602",
+      "CARD-2025022603",
+      "SAV-2025022401"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-25",
+    "weekday": 1,
+    "week_index": 8,
+    "discretionary_out_minor": 6401,
+    "all_out_minor": 7341,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025022501",
+      "CARD-2025022604",
+      "CARD-2025022605",
+      "CARD-2025022606",
+      "CARD-2025022607",
+      "SAV-2025022501"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-26",
+    "weekday": 2,
+    "week_index": 8,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-27",
+    "weekday": 3,
+    "week_index": 8,
+    "discretionary_out_minor": 13012,
+    "all_out_minor": 13012,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025022701",
+      "CARD-2025022801",
+      "CARD-2025022802"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-02-28",
+    "weekday": 4,
+    "week_index": 8,
+    "discretionary_out_minor": 3867,
+    "all_out_minor": 18929,
+    "in_minor": 675000,
+    "txn_ids": [
+      "CARD-2025030101",
+      "CARD-2025030102",
+      "CARD-2025030103",
+      "CARD-2025030201",
+      "CARD-2025030202",
+      "SAV-2025022801",
+      "SAV-2025022802"
+    ],
+    "is_payday": true
+  },
+  {
+    "date": "2025-03-01",
+    "weekday": 5,
+    "week_index": 8,
+    "discretionary_out_minor": 8456,
+    "all_out_minor": 8456,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025030203"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-02",
+    "weekday": 6,
+    "week_index": 8,
+    "discretionary_out_minor": 5587,
+    "all_out_minor": 9782,
+    "in_minor": 10756,
+    "txn_ids": [
+      "CARD-2025030301",
+      "SAV-2025030201",
+      "SAV-2025030202"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-03",
+    "weekday": 0,
+    "week_index": 9,
+    "discretionary_out_minor": 4000,
+    "all_out_minor": 4000,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025030302"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-04",
+    "weekday": 1,
+    "week_index": 9,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-05",
+    "weekday": 2,
+    "week_index": 9,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-06",
+    "weekday": 3,
+    "week_index": 9,
+    "discretionary_out_minor": 7762,
+    "all_out_minor": 127762,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025030701",
+      "SAV-2025030601"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-07",
+    "weekday": 4,
+    "week_index": 9,
+    "discretionary_out_minor": 5222,
+    "all_out_minor": 5222,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025030702",
+      "CARD-2025030901",
+      "SAV-2025030701"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-08",
+    "weekday": 5,
+    "week_index": 9,
+    "discretionary_out_minor": 14406,
+    "all_out_minor": 94406,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025030902",
+      "CARD-2025030903",
+      "CARD-2025030904",
+      "SAV-2025030801"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-09",
+    "weekday": 6,
+    "week_index": 9,
+    "discretionary_out_minor": 29996,
+    "all_out_minor": 29996,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025030905",
+      "CARD-2025030906",
+      "CARD-2025031001",
+      "CARD-2025031002",
+      "CARD-2025031003",
+      "CARD-2025031004",
+      "SAV-2025030901",
+      "SAV-2025030902"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-10",
+    "weekday": 0,
+    "week_index": 10,
+    "discretionary_out_minor": 11577,
+    "all_out_minor": 12087,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025031101",
+      "CARD-2025031102",
+      "CARD-2025031103"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-11",
+    "weekday": 1,
+    "week_index": 10,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-12",
+    "weekday": 2,
+    "week_index": 10,
+    "discretionary_out_minor": 9008,
+    "all_out_minor": 19862,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025031301",
+      "CARD-2025031302"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-13",
+    "weekday": 3,
+    "week_index": 10,
+    "discretionary_out_minor": 1269,
+    "all_out_minor": 1269,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025031401",
+      "CARD-2025031402"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-14",
+    "weekday": 4,
+    "week_index": 10,
+    "discretionary_out_minor": 2305,
+    "all_out_minor": 2305,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025031501",
+      "CARD-2025031502",
+      "CARD-2025031503"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-15",
+    "weekday": 5,
+    "week_index": 10,
+    "discretionary_out_minor": 8366,
+    "all_out_minor": 8366,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025031504",
+      "CARD-2025031601",
+      "CARD-2025031602",
+      "SAV-2025031501"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-16",
+    "weekday": 6,
+    "week_index": 10,
+    "discretionary_out_minor": 1460,
+    "all_out_minor": 1460,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025031603"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-17",
+    "weekday": 0,
+    "week_index": 11,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-18",
+    "weekday": 1,
+    "week_index": 11,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [
+      "SAV-2025031801"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-19",
+    "weekday": 2,
+    "week_index": 11,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-20",
+    "weekday": 3,
+    "week_index": 11,
+    "discretionary_out_minor": 7996,
+    "all_out_minor": 12496,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025032101",
+      "CARD-2025032102"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-21",
+    "weekday": 4,
+    "week_index": 11,
+    "discretionary_out_minor": 14738,
+    "all_out_minor": 14738,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025032103",
+      "CARD-2025032104",
+      "CARD-2025032201"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-22",
+    "weekday": 5,
+    "week_index": 11,
+    "discretionary_out_minor": 9500,
+    "all_out_minor": 9500,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025032202",
+      "CARD-2025032301",
+      "SAV-2025032201",
+      "SAV-2025032202"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-23",
+    "weekday": 6,
+    "week_index": 11,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-24",
+    "weekday": 0,
+    "week_index": 12,
+    "discretionary_out_minor": 545,
+    "all_out_minor": 545,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025032501"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-25",
+    "weekday": 1,
+    "week_index": 12,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-26",
+    "weekday": 2,
+    "week_index": 12,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-27",
+    "weekday": 3,
+    "week_index": 12,
+    "discretionary_out_minor": 161922,
+    "all_out_minor": 161922,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025032701",
+      "CARD-2025032801",
+      "CARD-2025032802",
+      "CARD-2025032803",
+      "CARD-2025032804",
+      "CARD-2025032805",
+      "CARD-2025032806",
+      "CARD-2025032807",
+      "CARD-2025032808",
+      "CARD-2025032901",
+      "CARD-2025032902"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-28",
+    "weekday": 4,
+    "week_index": 12,
+    "discretionary_out_minor": 30115,
+    "all_out_minor": 45816,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025032809",
+      "CARD-2025032903",
+      "CARD-2025032904",
+      "CARD-2025032905",
+      "CARD-2025032906",
+      "CARD-2025032907",
+      "CARD-2025032908",
+      "SAV-2025032801"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-29",
+    "weekday": 5,
+    "week_index": 12,
+    "discretionary_out_minor": 740,
+    "all_out_minor": 740,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025033001",
+      "SAV-2025032901"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-30",
+    "weekday": 6,
+    "week_index": 12,
+    "discretionary_out_minor": 24220,
+    "all_out_minor": 24220,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025033101",
+      "CARD-2025033102",
+      "CARD-2025033103",
+      "CARD-2025033104",
+      "SAV-2025033001"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-03-31",
+    "weekday": 0,
+    "week_index": 13,
+    "discretionary_out_minor": 5222,
+    "all_out_minor": 5222,
+    "in_minor": 675000,
+    "txn_ids": [
+      "CARD-2025040201",
+      "SAV-2025033101"
+    ],
+    "is_payday": true
+  },
+  {
+    "date": "2025-04-01",
+    "weekday": 1,
+    "week_index": 13,
+    "discretionary_out_minor": 5025,
+    "all_out_minor": 5025,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025040202"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-02",
+    "weekday": 2,
+    "week_index": 13,
+    "discretionary_out_minor": 9160,
+    "all_out_minor": 12495,
+    "in_minor": 8552,
+    "txn_ids": [
+      "CARD-2025040301",
+      "CARD-2025040302",
+      "CARD-2025040303",
+      "CARD-2025040304",
+      "CARD-2025040305",
+      "SAV-2025040201",
+      "SAV-2025040202"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-03",
+    "weekday": 3,
+    "week_index": 13,
+    "discretionary_out_minor": 1700,
+    "all_out_minor": 121700,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025040401",
+      "SAV-2025040301"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-04",
+    "weekday": 4,
+    "week_index": 13,
+    "discretionary_out_minor": 1170,
+    "all_out_minor": 1170,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025040501"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-05",
+    "weekday": 5,
+    "week_index": 13,
+    "discretionary_out_minor": 386,
+    "all_out_minor": 80386,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025040701",
+      "SAV-2025040501"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-06",
+    "weekday": 6,
+    "week_index": 13,
+    "discretionary_out_minor": 740,
+    "all_out_minor": 740,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025040702",
+      "SAV-2025040601"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-07",
+    "weekday": 0,
+    "week_index": 14,
+    "discretionary_out_minor": 97416,
+    "all_out_minor": 97416,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025040801",
+      "CARD-2025040802",
+      "CARD-2025040803",
+      "CARD-2025040804",
+      "CARD-2025040805",
+      "CARD-2025040806",
+      "SAV-2025040701"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-08",
+    "weekday": 1,
+    "week_index": 14,
+    "discretionary_out_minor": 13660,
+    "all_out_minor": 13660,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025040807",
+      "CARD-2025040901",
+      "CARD-2025040902"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-09",
+    "weekday": 2,
+    "week_index": 14,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [
+      "SAV-2025040901"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-10",
+    "weekday": 3,
+    "week_index": 14,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-11",
+    "weekday": 4,
+    "week_index": 14,
+    "discretionary_out_minor": 44320,
+    "all_out_minor": 44320,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025041201",
+      "CARD-2025041202",
+      "CARD-2025041203",
+      "CARD-2025041204",
+      "CARD-2025041301"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-12",
+    "weekday": 5,
+    "week_index": 14,
+    "discretionary_out_minor": 8479,
+    "all_out_minor": 8479,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025041205",
+      "CARD-2025041302",
+      "SAV-2025041201"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-13",
+    "weekday": 6,
+    "week_index": 14,
+    "discretionary_out_minor": 740,
+    "all_out_minor": 740,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025041303"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-14",
+    "weekday": 0,
+    "week_index": 15,
+    "discretionary_out_minor": 16705,
+    "all_out_minor": 16705,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025041501",
+      "CARD-2025041502",
+      "CARD-2025041503",
+      "CARD-2025041504",
+      "CARD-2025041505",
+      "CARD-2025041506",
+      "CARD-2025041507",
+      "SAV-2025041401"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-15",
+    "weekday": 1,
+    "week_index": 15,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-16",
+    "weekday": 2,
+    "week_index": 15,
+    "discretionary_out_minor": 11740,
+    "all_out_minor": 22207,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025041601",
+      "CARD-2025041701",
+      "SAV-2025041601"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-17",
+    "weekday": 3,
+    "week_index": 15,
+    "discretionary_out_minor": 25035,
+    "all_out_minor": 29535,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025041702",
+      "CARD-2025041703",
+      "CARD-2025041801",
+      "CARD-2025041802",
+      "SAV-2025041701",
+      "SAV-2025041702"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-18",
+    "weekday": 4,
+    "week_index": 15,
+    "discretionary_out_minor": 740,
+    "all_out_minor": 740,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025041803",
+      "CARD-2025041804",
+      "SAV-2025041801"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-19",
+    "weekday": 5,
+    "week_index": 15,
+    "discretionary_out_minor": 11513,
+    "all_out_minor": 11513,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025041901",
+      "CARD-2025042001"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-20",
+    "weekday": 6,
+    "week_index": 15,
+    "discretionary_out_minor": 985,
+    "all_out_minor": 340985,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025042101",
+      "SAV-2025042001"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-21",
+    "weekday": 0,
+    "week_index": 16,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-22",
+    "weekday": 1,
+    "week_index": 16,
+    "discretionary_out_minor": 10733,
+    "all_out_minor": 10733,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025042301",
+      "CARD-2025042302"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-23",
+    "weekday": 2,
+    "week_index": 16,
+    "discretionary_out_minor": 2792,
+    "all_out_minor": 2792,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025042303"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-24",
+    "weekday": 3,
+    "week_index": 16,
+    "discretionary_out_minor": 15544,
+    "all_out_minor": 15544,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025042401",
+      "CARD-2025042402",
+      "CARD-2025042501",
+      "CARD-2025042502"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-25",
+    "weekday": 4,
+    "week_index": 16,
+    "discretionary_out_minor": 4801,
+    "all_out_minor": 4801,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025042503"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-26",
+    "weekday": 5,
+    "week_index": 16,
+    "discretionary_out_minor": 29802,
+    "all_out_minor": 29802,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025042701",
+      "CARD-2025042702",
+      "CARD-2025042703",
+      "CARD-2025042801"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-27",
+    "weekday": 6,
+    "week_index": 16,
+    "discretionary_out_minor": 4036,
+    "all_out_minor": 4036,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025042704",
+      "CARD-2025042802"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-28",
+    "weekday": 0,
+    "week_index": 17,
+    "discretionary_out_minor": 8571,
+    "all_out_minor": 8571,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025042901",
+      "CARD-2025042902",
+      "CARD-2025042903"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-29",
+    "weekday": 1,
+    "week_index": 17,
+    "discretionary_out_minor": 8734,
+    "all_out_minor": 8734,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025043001",
+      "CARD-2025050101",
+      "SAV-2025042901"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-04-30",
+    "weekday": 2,
+    "week_index": 17,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 15062,
+    "in_minor": 675000,
+    "txn_ids": [
+      "CARD-2025050102",
+      "SAV-2025043001"
+    ],
+    "is_payday": true
+  },
+  {
+    "date": "2025-05-01",
+    "weekday": 3,
+    "week_index": 17,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 120000,
+    "in_minor": 0,
+    "txn_ids": [
+      "SAV-2025050101"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-02",
+    "weekday": 4,
+    "week_index": 17,
+    "discretionary_out_minor": 18477,
+    "all_out_minor": 21623,
+    "in_minor": 8069,
+    "txn_ids": [
+      "CARD-2025050201",
+      "CARD-2025050301",
+      "CARD-2025050302",
+      "CARD-2025050303",
+      "SAV-2025050201",
+      "SAV-2025050202"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-03",
+    "weekday": 5,
+    "week_index": 17,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 80000,
+    "in_minor": 0,
+    "txn_ids": [
+      "SAV-2025050301"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-04",
+    "weekday": 6,
+    "week_index": 17,
+    "discretionary_out_minor": 1464,
+    "all_out_minor": 1464,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025050501",
+      "CARD-2025050502",
+      "CARD-2025050601"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-05",
+    "weekday": 0,
+    "week_index": 18,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-06",
+    "weekday": 1,
+    "week_index": 18,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-07",
+    "weekday": 2,
+    "week_index": 18,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-08",
+    "weekday": 3,
+    "week_index": 18,
+    "discretionary_out_minor": 2512,
+    "all_out_minor": 2512,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025050901",
+      "CARD-2025051001"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-09",
+    "weekday": 4,
+    "week_index": 18,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-10",
+    "weekday": 5,
+    "week_index": 18,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-11",
+    "weekday": 6,
+    "week_index": 18,
+    "discretionary_out_minor": 52020,
+    "all_out_minor": 52020,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025051101",
+      "CARD-2025051102",
+      "CARD-2025051201",
+      "CARD-2025051202"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-12",
+    "weekday": 0,
+    "week_index": 19,
+    "discretionary_out_minor": 740,
+    "all_out_minor": 740,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025051203"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-13",
+    "weekday": 1,
+    "week_index": 19,
+    "discretionary_out_minor": 1029,
+    "all_out_minor": 1029,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025051301",
+      "CARD-2025051401"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-14",
+    "weekday": 2,
+    "week_index": 19,
+    "discretionary_out_minor": 210,
+    "all_out_minor": 15037,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025051501",
+      "CARD-2025051502"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-15",
+    "weekday": 3,
+    "week_index": 19,
+    "discretionary_out_minor": 18917,
+    "all_out_minor": 23417,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025051503",
+      "CARD-2025051601",
+      "CARD-2025051602",
+      "CARD-2025051603"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-16",
+    "weekday": 4,
+    "week_index": 19,
+    "discretionary_out_minor": 10861,
+    "all_out_minor": 10861,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025051604",
+      "CARD-2025051605",
+      "CARD-2025051606",
+      "CARD-2025051607",
+      "CARD-2025051701"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-17",
+    "weekday": 5,
+    "week_index": 19,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-18",
+    "weekday": 6,
+    "week_index": 19,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-19",
+    "weekday": 0,
+    "week_index": 20,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-20",
+    "weekday": 1,
+    "week_index": 20,
+    "discretionary_out_minor": 740,
+    "all_out_minor": 740,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025052001",
+      "CARD-2025052002",
+      "SAV-2025052001"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-21",
+    "weekday": 2,
+    "week_index": 20,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-22",
+    "weekday": 3,
+    "week_index": 20,
+    "discretionary_out_minor": 4740,
+    "all_out_minor": 4740,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025052201",
+      "CARD-2025052401"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-23",
+    "weekday": 4,
+    "week_index": 20,
+    "discretionary_out_minor": 78749,
+    "all_out_minor": 78749,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025052402",
+      "CARD-2025052403",
+      "CARD-2025052404",
+      "CARD-2025052405"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-24",
+    "weekday": 5,
+    "week_index": 20,
+    "discretionary_out_minor": 286090,
+    "all_out_minor": 286090,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025052406",
+      "CARD-2025052501",
+      "CARD-2025052502",
+      "CARD-2025052503",
+      "CARD-2025052504",
+      "CARD-2025052505",
+      "SAV-2025052401"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-25",
+    "weekday": 6,
+    "week_index": 20,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-26",
+    "weekday": 0,
+    "week_index": 21,
+    "discretionary_out_minor": 4127,
+    "all_out_minor": 4127,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025052601",
+      "CARD-2025052701"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-27",
+    "weekday": 1,
+    "week_index": 21,
+    "discretionary_out_minor": 4275,
+    "all_out_minor": 4275,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025052901"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-28",
+    "weekday": 2,
+    "week_index": 21,
+    "discretionary_out_minor": 7285,
+    "all_out_minor": 22347,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025052902",
+      "CARD-2025052903"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-29",
+    "weekday": 3,
+    "week_index": 21,
+    "discretionary_out_minor": 740,
+    "all_out_minor": 120740,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025052904",
+      "SAV-2025052901"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-05-30",
+    "weekday": 4,
+    "week_index": 21,
+    "discretionary_out_minor": 740,
+    "all_out_minor": 740,
+    "in_minor": 675000,
+    "txn_ids": [
+      "CARD-2025053101",
+      "SAV-2025053001"
+    ],
+    "is_payday": true
+  },
+  {
+    "date": "2025-05-31",
+    "weekday": 5,
+    "week_index": 21,
+    "discretionary_out_minor": 3744,
+    "all_out_minor": 83744,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025060101",
+      "CARD-2025060102",
+      "CARD-2025060103",
+      "SAV-2025053101"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-01",
+    "weekday": 6,
+    "week_index": 21,
+    "discretionary_out_minor": 1320,
+    "all_out_minor": 1320,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025060104"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-02",
+    "weekday": 0,
+    "week_index": 22,
+    "discretionary_out_minor": 5169,
+    "all_out_minor": 7742,
+    "in_minor": 6599,
+    "txn_ids": [
+      "CARD-2025060401",
+      "SAV-2025060201",
+      "SAV-2025060202"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-03",
+    "weekday": 1,
+    "week_index": 22,
+    "discretionary_out_minor": 11872,
+    "all_out_minor": 11872,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025060301",
+      "CARD-2025060402",
+      "CARD-2025060403",
+      "CARD-2025060404",
+      "CARD-2025060405",
+      "SAV-2025060301"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-04",
+    "weekday": 2,
+    "week_index": 22,
+    "discretionary_out_minor": 114398,
+    "all_out_minor": 114398,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025060406",
+      "CARD-2025060407",
+      "CARD-2025060501",
+      "SAV-2025060401",
+      "SAV-2025060402"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-05",
+    "weekday": 3,
+    "week_index": 22,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-06",
+    "weekday": 4,
+    "week_index": 22,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 9809,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025060601"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-07",
+    "weekday": 5,
+    "week_index": 22,
+    "discretionary_out_minor": 14851,
+    "all_out_minor": 14851,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025060801",
+      "CARD-2025060802"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-08",
+    "weekday": 6,
+    "week_index": 22,
+    "discretionary_out_minor": 8170,
+    "all_out_minor": 8170,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025060803",
+      "CARD-2025060804"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-09",
+    "weekday": 0,
+    "week_index": 23,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-10",
+    "weekday": 1,
+    "week_index": 23,
+    "discretionary_out_minor": 22503,
+    "all_out_minor": 22811,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025061101",
+      "CARD-2025061201",
+      "CARD-2025061202"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-11",
+    "weekday": 2,
+    "week_index": 23,
+    "discretionary_out_minor": 5480,
+    "all_out_minor": 22873,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025061102",
+      "CARD-2025061203",
+      "CARD-2025061204",
+      "CARD-2025061205"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-12",
+    "weekday": 3,
+    "week_index": 23,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 4500,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025061301"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-13",
+    "weekday": 4,
+    "week_index": 23,
+    "discretionary_out_minor": 9365,
+    "all_out_minor": 9365,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025061302",
+      "CARD-2025061401",
+      "CARD-2025061402",
+      "CARD-2025061403",
+      "SAV-2025061301",
+      "SAV-2025061302"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-14",
+    "weekday": 5,
+    "week_index": 23,
+    "discretionary_out_minor": 210,
+    "all_out_minor": 210,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025061501"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-15",
+    "weekday": 6,
+    "week_index": 23,
+    "discretionary_out_minor": 11420,
+    "all_out_minor": 11420,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025061502",
+      "CARD-2025061601"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-16",
+    "weekday": 0,
+    "week_index": 24,
+    "discretionary_out_minor": 6375,
+    "all_out_minor": 6375,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025061701"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-17",
+    "weekday": 1,
+    "week_index": 24,
+    "discretionary_out_minor": 24323,
+    "all_out_minor": 24463,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025061702",
+      "CARD-2025061703",
+      "CARD-2025061801",
+      "CARD-2025061901"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-18",
+    "weekday": 2,
+    "week_index": 24,
+    "discretionary_out_minor": 12187,
+    "all_out_minor": 12187,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025061802",
+      "CARD-2025061902",
+      "CARD-2025061903"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-19",
+    "weekday": 3,
+    "week_index": 24,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-20",
+    "weekday": 4,
+    "week_index": 24,
+    "discretionary_out_minor": 9082,
+    "all_out_minor": 9082,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025062001",
+      "CARD-2025062101",
+      "CARD-2025062102",
+      "CARD-2025062103"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-21",
+    "weekday": 5,
+    "week_index": 24,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-22",
+    "weekday": 6,
+    "week_index": 24,
+    "discretionary_out_minor": 15904,
+    "all_out_minor": 15904,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025062201",
+      "CARD-2025062202",
+      "CARD-2025062301",
+      "CARD-2025062302",
+      "CARD-2025062303",
+      "CARD-2025062304",
+      "CARD-2025062305",
+      "SAV-2025062201",
+      "SAV-2025062202",
+      "SAV-2025062203"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-23",
+    "weekday": 0,
+    "week_index": 25,
+    "discretionary_out_minor": 8557,
+    "all_out_minor": 8557,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025062306",
+      "CARD-2025062401"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-24",
+    "weekday": 1,
+    "week_index": 25,
+    "discretionary_out_minor": 35117,
+    "all_out_minor": 35117,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025062402",
+      "CARD-2025062403",
+      "CARD-2025062501",
+      "SAV-2025062401"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-25",
+    "weekday": 2,
+    "week_index": 25,
+    "discretionary_out_minor": 3373,
+    "all_out_minor": 3373,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025062601",
+      "CARD-2025062602"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-26",
+    "weekday": 3,
+    "week_index": 25,
+    "discretionary_out_minor": 37804,
+    "all_out_minor": 157804,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025062701",
+      "CARD-2025062702",
+      "CARD-2025062703",
+      "CARD-2025062704",
+      "CARD-2025062705",
+      "CARD-2025062801",
+      "CARD-2025062802",
+      "CARD-2025062803",
+      "SAV-2025062601",
+      "SAV-2025062602"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-27",
+    "weekday": 4,
+    "week_index": 25,
+    "discretionary_out_minor": 8944,
+    "all_out_minor": 8944,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025062706",
+      "CARD-2025062804",
+      "CARD-2025070101",
+      "CARD-2025070102",
+      "CARD-2025070103",
+      "SAV-2025062701"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-28",
+    "weekday": 5,
+    "week_index": 25,
+    "discretionary_out_minor": 12137,
+    "all_out_minor": 107297,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025062805",
+      "CARD-2025062806",
+      "CARD-2025062901",
+      "CARD-2025062902",
+      "CARD-2025063001",
+      "CARD-2025063002",
+      "SAV-2025062801"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-29",
+    "weekday": 6,
+    "week_index": 25,
+    "discretionary_out_minor": 2728,
+    "all_out_minor": 2728,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025063003"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-06-30",
+    "weekday": 0,
+    "week_index": 26,
+    "discretionary_out_minor": 19692,
+    "all_out_minor": 19692,
+    "in_minor": 675000,
+    "txn_ids": [
+      "CARD-2025063004",
+      "CARD-2025063005",
+      "CARD-2025070104",
+      "CARD-2025070105",
+      "CARD-2025070106",
+      "CARD-2025070107",
+      "CARD-2025070108",
+      "CARD-2025070201",
+      "SAV-2025063001"
+    ],
+    "is_payday": true
+  },
+  {
+    "date": "2025-07-01",
+    "weekday": 1,
+    "week_index": 26,
+    "discretionary_out_minor": 19385,
+    "all_out_minor": 19605,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025070109",
+      "CARD-2025070202",
+      "CARD-2025070203"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-02",
+    "weekday": 2,
+    "week_index": 26,
+    "discretionary_out_minor": 2618,
+    "all_out_minor": 4675,
+    "in_minor": 5274,
+    "txn_ids": [
+      "CARD-2025070301",
+      "CARD-2025070302",
+      "CARD-2025070501",
+      "SAV-2025070201",
+      "SAV-2025070202",
+      "SAV-2025070203"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-03",
+    "weekday": 3,
+    "week_index": 26,
+    "discretionary_out_minor": 10719,
+    "all_out_minor": 10719,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025070303",
+      "CARD-2025070304",
+      "CARD-2025070401",
+      "CARD-2025070402",
+      "CARD-2025070403"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-04",
+    "weekday": 4,
+    "week_index": 26,
+    "discretionary_out_minor": 21801,
+    "all_out_minor": 21801,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025070404",
+      "CARD-2025070502",
+      "CARD-2025070503",
+      "CARD-2025070504",
+      "CARD-2025070505",
+      "CARD-2025070506",
+      "CARD-2025070507"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-05",
+    "weekday": 5,
+    "week_index": 26,
+    "discretionary_out_minor": 6073,
+    "all_out_minor": 6073,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025070508",
+      "CARD-2025070509",
+      "CARD-2025070601",
+      "CARD-2025070602",
+      "CARD-2025070603",
+      "SAV-2025070501"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-06",
+    "weekday": 6,
+    "week_index": 26,
+    "discretionary_out_minor": 14971,
+    "all_out_minor": 14971,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025070701",
+      "CARD-2025070702",
+      "SAV-2025070601"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-07",
+    "weekday": 0,
+    "week_index": 27,
+    "discretionary_out_minor": 562,
+    "all_out_minor": 562,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025070801",
+      "SAV-2025070701"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-08",
+    "weekday": 1,
+    "week_index": 27,
+    "discretionary_out_minor": 9670,
+    "all_out_minor": 9670,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025070802",
+      "CARD-2025070901",
+      "CARD-2025070902",
+      "CARD-2025070903",
+      "SAV-2025070801"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-09",
+    "weekday": 2,
+    "week_index": 27,
+    "discretionary_out_minor": 12713,
+    "all_out_minor": 12786,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025070904",
+      "CARD-2025071001",
+      "CARD-2025071101",
+      "CARD-2025071102"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-10",
+    "weekday": 3,
+    "week_index": 27,
+    "discretionary_out_minor": 6042,
+    "all_out_minor": 10542,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025071103",
+      "CARD-2025071104",
+      "CARD-2025071105"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-11",
+    "weekday": 4,
+    "week_index": 27,
+    "discretionary_out_minor": 7650,
+    "all_out_minor": 7650,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025071201",
+      "CARD-2025071202",
+      "SAV-2025071101"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-12",
+    "weekday": 5,
+    "week_index": 27,
+    "discretionary_out_minor": 10029,
+    "all_out_minor": 10029,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025071203",
+      "CARD-2025071301",
+      "CARD-2025071302"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-13",
+    "weekday": 6,
+    "week_index": 27,
+    "discretionary_out_minor": 9595,
+    "all_out_minor": 9595,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025071303",
+      "CARD-2025071401",
+      "CARD-2025071402",
+      "CARD-2025071403",
+      "CARD-2025071404",
+      "CARD-2025071501"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-14",
+    "weekday": 0,
+    "week_index": 28,
+    "discretionary_out_minor": 1320,
+    "all_out_minor": 1320,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025071405",
+      "CARD-2025071502",
+      "SAV-2025071401"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-15",
+    "weekday": 1,
+    "week_index": 28,
+    "discretionary_out_minor": 18317,
+    "all_out_minor": 24029,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025071503",
+      "CARD-2025071504",
+      "CARD-2025071601",
+      "CARD-2025071602",
+      "CARD-2025071603",
+      "SAV-2025071501",
+      "SAV-2025071502",
+      "SAV-2025071503"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-16",
+    "weekday": 2,
+    "week_index": 28,
+    "discretionary_out_minor": 16153,
+    "all_out_minor": 31995,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025071701",
+      "CARD-2025071702"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-17",
+    "weekday": 3,
+    "week_index": 28,
+    "discretionary_out_minor": 1170,
+    "all_out_minor": 1170,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025071801"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-18",
+    "weekday": 4,
+    "week_index": 28,
+    "discretionary_out_minor": 740,
+    "all_out_minor": 275740,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025071802",
+      "SAV-2025071801"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-19",
+    "weekday": 5,
+    "week_index": 28,
+    "discretionary_out_minor": 14278,
+    "all_out_minor": 14278,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025071901",
+      "CARD-2025071902",
+      "CARD-2025072001",
+      "CARD-2025072101"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-20",
+    "weekday": 6,
+    "week_index": 28,
+    "discretionary_out_minor": 89161,
+    "all_out_minor": 89161,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025072002",
+      "CARD-2025072102",
+      "CARD-2025072103",
+      "CARD-2025072104",
+      "SAV-2025072001",
+      "SAV-2025072002"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-21",
+    "weekday": 0,
+    "week_index": 29,
+    "discretionary_out_minor": 10158,
+    "all_out_minor": 10158,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025072105",
+      "CARD-2025072201",
+      "CARD-2025072202"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-22",
+    "weekday": 1,
+    "week_index": 29,
+    "discretionary_out_minor": 5000,
+    "all_out_minor": 5000,
+    "in_minor": 0,
+    "txn_ids": [
+      "SAV-2025072201"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-23",
+    "weekday": 2,
+    "week_index": 29,
+    "discretionary_out_minor": 1269,
+    "all_out_minor": 1269,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025072301",
+      "CARD-2025072401"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-24",
+    "weekday": 3,
+    "week_index": 29,
+    "discretionary_out_minor": 30419,
+    "all_out_minor": 150419,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025072402",
+      "CARD-2025072501",
+      "CARD-2025072502",
+      "CARD-2025072503",
+      "CARD-2025072504",
+      "CARD-2025072505",
+      "SAV-2025072401"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-25",
+    "weekday": 4,
+    "week_index": 29,
+    "discretionary_out_minor": 11565,
+    "all_out_minor": 11565,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025072506",
+      "CARD-2025072601"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-26",
+    "weekday": 5,
+    "week_index": 29,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 80000,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025072602",
+      "SAV-2025072601",
+      "SAV-2025072602"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-27",
+    "weekday": 6,
+    "week_index": 29,
+    "discretionary_out_minor": 4905,
+    "all_out_minor": 4905,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025072701",
+      "CARD-2025072901"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-28",
+    "weekday": 0,
+    "week_index": 30,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-29",
+    "weekday": 1,
+    "week_index": 30,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 60000,
+    "in_minor": 0,
+    "txn_ids": [
+      "SAV-2025072901"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-30",
+    "weekday": 2,
+    "week_index": 30,
+    "discretionary_out_minor": 2658,
+    "all_out_minor": 17720,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025073001",
+      "CARD-2025073101",
+      "CARD-2025073102",
+      "CARD-2025073103"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-07-31",
+    "weekday": 3,
+    "week_index": 30,
+    "discretionary_out_minor": 109279,
+    "all_out_minor": 109279,
+    "in_minor": 675000,
+    "txn_ids": [
+      "CARD-2025073104",
+      "CARD-2025073105",
+      "CARD-2025080101",
+      "CARD-2025080102",
+      "SAV-2025073101",
+      "SAV-2025073102"
+    ],
+    "is_payday": true
+  },
+  {
+    "date": "2025-08-01",
+    "weekday": 4,
+    "week_index": 30,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-02",
+    "weekday": 5,
+    "week_index": 30,
+    "discretionary_out_minor": 14487,
+    "all_out_minor": 16498,
+    "in_minor": 5157,
+    "txn_ids": [
+      "CARD-2025080201",
+      "CARD-2025080301",
+      "CARD-2025080302",
+      "SAV-2025080201",
+      "SAV-2025080202",
+      "SAV-2025080203"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-03",
+    "weekday": 6,
+    "week_index": 30,
+    "discretionary_out_minor": 3208,
+    "all_out_minor": 3208,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025080401",
+      "CARD-2025080402",
+      "SAV-2025080301"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-04",
+    "weekday": 0,
+    "week_index": 31,
+    "discretionary_out_minor": 8958,
+    "all_out_minor": 8958,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025080403",
+      "CARD-2025080404",
+      "CARD-2025080501",
+      "CARD-2025080502"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-05",
+    "weekday": 1,
+    "week_index": 31,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-06",
+    "weekday": 2,
+    "week_index": 31,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-07",
+    "weekday": 3,
+    "week_index": 31,
+    "discretionary_out_minor": 10790,
+    "all_out_minor": 15290,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025080701",
+      "CARD-2025080801",
+      "CARD-2025080802"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-08",
+    "weekday": 4,
+    "week_index": 31,
+    "discretionary_out_minor": 10250,
+    "all_out_minor": 10250,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025080901",
+      "CARD-2025080902"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-09",
+    "weekday": 5,
+    "week_index": 31,
+    "discretionary_out_minor": 4285,
+    "all_out_minor": 4285,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025081101"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-10",
+    "weekday": 6,
+    "week_index": 31,
+    "discretionary_out_minor": 4175,
+    "all_out_minor": 4175,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025081001"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-11",
+    "weekday": 0,
+    "week_index": 32,
+    "discretionary_out_minor": 978343,
+    "all_out_minor": 978343,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025081201",
+      "CARD-2025081202",
+      "CARD-2025081203",
+      "CARD-2025081204",
+      "CARD-2025081301",
+      "SAV-2025081101"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-12",
+    "weekday": 1,
+    "week_index": 32,
+    "discretionary_out_minor": 20550,
+    "all_out_minor": 20550,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025081205",
+      "SAV-2025081201"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-13",
+    "weekday": 2,
+    "week_index": 32,
+    "discretionary_out_minor": 289,
+    "all_out_minor": 14252,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025081401",
+      "CARD-2025081402"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-14",
+    "weekday": 3,
+    "week_index": 32,
+    "discretionary_out_minor": 8671,
+    "all_out_minor": 8671,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025081403",
+      "CARD-2025081404",
+      "CARD-2025081405",
+      "CARD-2025081501",
+      "SAV-2025081401"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-15",
+    "weekday": 4,
+    "week_index": 32,
+    "discretionary_out_minor": 1338,
+    "all_out_minor": 1338,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025081502",
+      "CARD-2025081601"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-16",
+    "weekday": 5,
+    "week_index": 32,
+    "discretionary_out_minor": 1170,
+    "all_out_minor": 1170,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025081701"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-17",
+    "weekday": 6,
+    "week_index": 32,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-18",
+    "weekday": 0,
+    "week_index": 33,
+    "discretionary_out_minor": 740,
+    "all_out_minor": 740,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025081801",
+      "SAV-2025081801"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-19",
+    "weekday": 1,
+    "week_index": 33,
+    "discretionary_out_minor": 53244,
+    "all_out_minor": 53244,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025081901",
+      "CARD-2025081902",
+      "CARD-2025082001",
+      "CARD-2025082002",
+      "SAV-2025081901",
+      "SAV-2025081902"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-20",
+    "weekday": 2,
+    "week_index": 33,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 2000,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025082201"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-21",
+    "weekday": 3,
+    "week_index": 33,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 120000,
+    "in_minor": 0,
+    "txn_ids": [
+      "SAV-2025082101"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-22",
+    "weekday": 4,
+    "week_index": 33,
+    "discretionary_out_minor": 1004,
+    "all_out_minor": 1004,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025082301"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-23",
+    "weekday": 5,
+    "week_index": 33,
+    "discretionary_out_minor": 6115,
+    "all_out_minor": 86115,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025082302",
+      "CARD-2025082501",
+      "SAV-2025082301"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-24",
+    "weekday": 6,
+    "week_index": 33,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-25",
+    "weekday": 0,
+    "week_index": 34,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-26",
+    "weekday": 1,
+    "week_index": 34,
+    "discretionary_out_minor": 740,
+    "all_out_minor": 740,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025082601"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-27",
+    "weekday": 2,
+    "week_index": 34,
+    "discretionary_out_minor": 27649,
+    "all_out_minor": 43600,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025082701",
+      "CARD-2025082801",
+      "CARD-2025082802",
+      "CARD-2025082803",
+      "CARD-2025082804",
+      "CARD-2025082805",
+      "CARD-2025082806",
+      "CARD-2025082901"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-28",
+    "weekday": 3,
+    "week_index": 34,
+    "discretionary_out_minor": 7943,
+    "all_out_minor": 23005,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025082807",
+      "CARD-2025082902",
+      "CARD-2025082903"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-29",
+    "weekday": 4,
+    "week_index": 34,
+    "discretionary_out_minor": 2256,
+    "all_out_minor": 2256,
+    "in_minor": 675000,
+    "txn_ids": [
+      "CARD-2025083001",
+      "SAV-2025082901"
+    ],
+    "is_payday": true
+  },
+  {
+    "date": "2025-08-30",
+    "weekday": 5,
+    "week_index": 34,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 5000,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025083002",
+      "SAV-2025083001",
+      "SAV-2025083002"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-08-31",
+    "weekday": 6,
+    "week_index": 34,
+    "discretionary_out_minor": 15738,
+    "all_out_minor": 15738,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025090101",
+      "SAV-2025083101",
+      "SAV-2025083102"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-01",
+    "weekday": 0,
+    "week_index": 35,
+    "discretionary_out_minor": 620,
+    "all_out_minor": 620,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025090201"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-02",
+    "weekday": 1,
+    "week_index": 35,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 1747,
+    "in_minor": 4479,
+    "txn_ids": [
+      "SAV-2025090201",
+      "SAV-2025090202"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-03",
+    "weekday": 2,
+    "week_index": 35,
+    "discretionary_out_minor": 9956,
+    "all_out_minor": 9956,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025090401",
+      "CARD-2025090402",
+      "CARD-2025090403",
+      "CARD-2025090501"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-04",
+    "weekday": 3,
+    "week_index": 35,
+    "discretionary_out_minor": 4641,
+    "all_out_minor": 9141,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025090404",
+      "CARD-2025090502",
+      "CARD-2025090503",
+      "CARD-2025090504"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-05",
+    "weekday": 4,
+    "week_index": 35,
+    "discretionary_out_minor": 6584,
+    "all_out_minor": 6584,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025090505",
+      "CARD-2025090601",
+      "CARD-2025090602",
+      "CARD-2025090701"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-06",
+    "weekday": 5,
+    "week_index": 35,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-07",
+    "weekday": 6,
+    "week_index": 35,
+    "discretionary_out_minor": 4287,
+    "all_out_minor": 4287,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025090801"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-08",
+    "weekday": 0,
+    "week_index": 36,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-09",
+    "weekday": 1,
+    "week_index": 36,
+    "discretionary_out_minor": 12000,
+    "all_out_minor": 12000,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025091001",
+      "SAV-2025090901"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-10",
+    "weekday": 2,
+    "week_index": 36,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-11",
+    "weekday": 3,
+    "week_index": 36,
+    "discretionary_out_minor": 7606,
+    "all_out_minor": 7606,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025091201",
+      "CARD-2025091301"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-12",
+    "weekday": 4,
+    "week_index": 36,
+    "discretionary_out_minor": 8051,
+    "all_out_minor": 8051,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025091302"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-13",
+    "weekday": 5,
+    "week_index": 36,
+    "discretionary_out_minor": 289,
+    "all_out_minor": 289,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025091401"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-14",
+    "weekday": 6,
+    "week_index": 36,
+    "discretionary_out_minor": 12084,
+    "all_out_minor": 12084,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025091501",
+      "CARD-2025091601",
+      "CARD-2025091602"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-15",
+    "weekday": 0,
+    "week_index": 37,
+    "discretionary_out_minor": 1360,
+    "all_out_minor": 1360,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025091502",
+      "CARD-2025091603"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-16",
+    "weekday": 1,
+    "week_index": 37,
+    "discretionary_out_minor": 29938,
+    "all_out_minor": 29938,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025091604",
+      "CARD-2025091701",
+      "CARD-2025091702",
+      "CARD-2025091703",
+      "CARD-2025091704",
+      "CARD-2025091705"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-17",
+    "weekday": 2,
+    "week_index": 37,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-18",
+    "weekday": 3,
+    "week_index": 37,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 120000,
+    "in_minor": 0,
+    "txn_ids": [
+      "SAV-2025091801"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-19",
+    "weekday": 4,
+    "week_index": 37,
+    "discretionary_out_minor": 740,
+    "all_out_minor": 740,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025091901"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-20",
+    "weekday": 5,
+    "week_index": 37,
+    "discretionary_out_minor": 7989,
+    "all_out_minor": 87989,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025092101",
+      "SAV-2025092001"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-21",
+    "weekday": 6,
+    "week_index": 37,
+    "discretionary_out_minor": 2073,
+    "all_out_minor": 2073,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025092201"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-22",
+    "weekday": 0,
+    "week_index": 38,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025092202",
+      "SAV-2025092201"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-23",
+    "weekday": 1,
+    "week_index": 38,
+    "discretionary_out_minor": 70786,
+    "all_out_minor": 70786,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025092301",
+      "CARD-2025092501"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-24",
+    "weekday": 2,
+    "week_index": 38,
+    "discretionary_out_minor": 3428,
+    "all_out_minor": 3428,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025092401",
+      "CARD-2025092502"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-25",
+    "weekday": 3,
+    "week_index": 38,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-26",
+    "weekday": 4,
+    "week_index": 38,
+    "discretionary_out_minor": 8765,
+    "all_out_minor": 8765,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025092701",
+      "CARD-2025092801"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-27",
+    "weekday": 5,
+    "week_index": 38,
+    "discretionary_out_minor": 12747,
+    "all_out_minor": 12747,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025092802"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-28",
+    "weekday": 6,
+    "week_index": 38,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-29",
+    "weekday": 0,
+    "week_index": 39,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-09-30",
+    "weekday": 1,
+    "week_index": 39,
+    "discretionary_out_minor": 7583,
+    "all_out_minor": 23848,
+    "in_minor": 675000,
+    "txn_ids": [
+      "CARD-2025100101",
+      "CARD-2025100102",
+      "CARD-2025100103",
+      "SAV-2025093001"
+    ],
+    "is_payday": true
+  },
+  {
+    "date": "2025-10-01",
+    "weekday": 2,
+    "week_index": 39,
+    "discretionary_out_minor": 620,
+    "all_out_minor": 620,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025100201"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-02",
+    "weekday": 3,
+    "week_index": 39,
+    "discretionary_out_minor": 6377,
+    "all_out_minor": 12223,
+    "in_minor": 3452,
+    "txn_ids": [
+      "CARD-2025100301",
+      "CARD-2025100302",
+      "CARD-2025100303",
+      "CARD-2025100304",
+      "CARD-2025100305",
+      "SAV-2025100201",
+      "SAV-2025100202"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-03",
+    "weekday": 4,
+    "week_index": 39,
+    "discretionary_out_minor": 627,
+    "all_out_minor": 627,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025100401"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-04",
+    "weekday": 5,
+    "week_index": 39,
+    "discretionary_out_minor": 10103,
+    "all_out_minor": 10613,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025100501",
+      "CARD-2025100502",
+      "CARD-2025100503",
+      "CARD-2025100504",
+      "CARD-2025100505",
+      "CARD-2025100601"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-05",
+    "weekday": 6,
+    "week_index": 39,
+    "discretionary_out_minor": 14020,
+    "all_out_minor": 14020,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025100506",
+      "CARD-2025100602",
+      "CARD-2025100701",
+      "CARD-2025100702",
+      "CARD-2025100703"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-06",
+    "weekday": 0,
+    "week_index": 40,
+    "discretionary_out_minor": 66919,
+    "all_out_minor": 66919,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025100603",
+      "CARD-2025100704",
+      "CARD-2025100705",
+      "CARD-2025100706",
+      "SAV-2025100601"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-07",
+    "weekday": 1,
+    "week_index": 40,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 21472,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025100801"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-08",
+    "weekday": 2,
+    "week_index": 40,
+    "discretionary_out_minor": 6648,
+    "all_out_minor": 6648,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025100802"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-09",
+    "weekday": 3,
+    "week_index": 40,
+    "discretionary_out_minor": 25000,
+    "all_out_minor": 25000,
+    "in_minor": 0,
+    "txn_ids": [
+      "SAV-2025100901"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-10",
+    "weekday": 4,
+    "week_index": 40,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-11",
+    "weekday": 5,
+    "week_index": 40,
+    "discretionary_out_minor": 1004,
+    "all_out_minor": 1004,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025101201"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-12",
+    "weekday": 6,
+    "week_index": 40,
+    "discretionary_out_minor": 2562,
+    "all_out_minor": 2562,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025101202",
+      "CARD-2025101301"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-13",
+    "weekday": 0,
+    "week_index": 41,
+    "discretionary_out_minor": 215164,
+    "all_out_minor": 215164,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025101302",
+      "CARD-2025101303",
+      "CARD-2025101304",
+      "CARD-2025101401",
+      "CARD-2025101402",
+      "CARD-2025101403",
+      "SAV-2025101301",
+      "SAV-2025101302"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-14",
+    "weekday": 1,
+    "week_index": 41,
+    "discretionary_out_minor": 1214,
+    "all_out_minor": 1214,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025101501",
+      "CARD-2025101601",
+      "SAV-2025101401"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-15",
+    "weekday": 2,
+    "week_index": 41,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-16",
+    "weekday": 3,
+    "week_index": 41,
+    "discretionary_out_minor": 41004,
+    "all_out_minor": 161004,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025101701",
+      "SAV-2025101601",
+      "SAV-2025101602"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-17",
+    "weekday": 4,
+    "week_index": 41,
+    "discretionary_out_minor": 42488,
+    "all_out_minor": 42488,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025101801",
+      "CARD-2025101802",
+      "CARD-2025101803",
+      "CARD-2025101804",
+      "CARD-2025101805",
+      "CARD-2025101806",
+      "CARD-2025101901",
+      "CARD-2025101902",
+      "SAV-2025101701"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-18",
+    "weekday": 5,
+    "week_index": 41,
+    "discretionary_out_minor": 19380,
+    "all_out_minor": 99380,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025101807",
+      "CARD-2025101903",
+      "CARD-2025101904",
+      "SAV-2025101801",
+      "SAV-2025101802"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-19",
+    "weekday": 6,
+    "week_index": 41,
+    "discretionary_out_minor": 5363,
+    "all_out_minor": 5363,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025102001",
+      "SAV-2025101901"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-20",
+    "weekday": 0,
+    "week_index": 42,
+    "discretionary_out_minor": 6509,
+    "all_out_minor": 6509,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025102101"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-21",
+    "weekday": 1,
+    "week_index": 42,
+    "discretionary_out_minor": 62597,
+    "all_out_minor": 62597,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025102201",
+      "CARD-2025102202",
+      "CARD-2025102203"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-22",
+    "weekday": 2,
+    "week_index": 42,
+    "discretionary_out_minor": 1170,
+    "all_out_minor": 1170,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025102204",
+      "CARD-2025102301",
+      "SAV-2025102201",
+      "SAV-2025102202"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-23",
+    "weekday": 3,
+    "week_index": 42,
+    "discretionary_out_minor": 12355,
+    "all_out_minor": 12355,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025102302",
+      "CARD-2025102401",
+      "CARD-2025102402",
+      "CARD-2025102403"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-24",
+    "weekday": 4,
+    "week_index": 42,
+    "discretionary_out_minor": 11369,
+    "all_out_minor": 11369,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025102404",
+      "CARD-2025102405",
+      "CARD-2025102501",
+      "CARD-2025102502",
+      "CARD-2025102503",
+      "CARD-2025102504",
+      "CARD-2025102505",
+      "SAV-2025102401"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-25",
+    "weekday": 5,
+    "week_index": 42,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-26",
+    "weekday": 6,
+    "week_index": 42,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-27",
+    "weekday": 0,
+    "week_index": 43,
+    "discretionary_out_minor": 9662,
+    "all_out_minor": 9662,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025102801",
+      "CARD-2025102802",
+      "CARD-2025102901",
+      "SAV-2025102701"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-28",
+    "weekday": 1,
+    "week_index": 43,
+    "discretionary_out_minor": 18788,
+    "all_out_minor": 18788,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025102803",
+      "CARD-2025102804",
+      "CARD-2025102805",
+      "CARD-2025102902",
+      "CARD-2025102903",
+      "CARD-2025102904"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-29",
+    "weekday": 2,
+    "week_index": 43,
+    "discretionary_out_minor": 33112,
+    "all_out_minor": 49377,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025102905",
+      "CARD-2025102906",
+      "CARD-2025103001",
+      "CARD-2025103002",
+      "CARD-2025103003",
+      "CARD-2025103101"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-30",
+    "weekday": 3,
+    "week_index": 43,
+    "discretionary_out_minor": 29144,
+    "all_out_minor": 33644,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025103102",
+      "CARD-2025103103",
+      "CARD-2025103104"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-10-31",
+    "weekday": 4,
+    "week_index": 43,
+    "discretionary_out_minor": 58158,
+    "all_out_minor": 58158,
+    "in_minor": 675000,
+    "txn_ids": [
+      "CARD-2025103105",
+      "CARD-2025103106",
+      "CARD-2025103107",
+      "CARD-2025110101",
+      "CARD-2025110102",
+      "CARD-2025110103",
+      "CARD-2025110104",
+      "CARD-2025110105",
+      "CARD-2025110106",
+      "CARD-2025110107",
+      "SAV-2025103101",
+      "SAV-2025103102",
+      "SAV-2025103103"
+    ],
+    "is_payday": true
+  },
+  {
+    "date": "2025-11-01",
+    "weekday": 5,
+    "week_index": 43,
+    "discretionary_out_minor": 9588,
+    "all_out_minor": 9588,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025110201",
+      "CARD-2025110202",
+      "CARD-2025110203",
+      "CARD-2025110204",
+      "CARD-2025110205",
+      "CARD-2025110206"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-02",
+    "weekday": 6,
+    "week_index": 43,
+    "discretionary_out_minor": 41334,
+    "all_out_minor": 42583,
+    "in_minor": 3204,
+    "txn_ids": [
+      "CARD-2025110207",
+      "CARD-2025110208",
+      "CARD-2025110209",
+      "CARD-2025110210",
+      "CARD-2025110301",
+      "CARD-2025110401",
+      "CARD-2025110402",
+      "CARD-2025110403",
+      "CARD-2025110404",
+      "SAV-2025110201",
+      "SAV-2025110202"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-03",
+    "weekday": 0,
+    "week_index": 44,
+    "discretionary_out_minor": 627,
+    "all_out_minor": 19261,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025110405",
+      "CARD-2025110406"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-04",
+    "weekday": 1,
+    "week_index": 44,
+    "discretionary_out_minor": 10864,
+    "all_out_minor": 10864,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025110407",
+      "CARD-2025110501",
+      "CARD-2025110502",
+      "CARD-2025110503",
+      "SAV-2025110401"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-05",
+    "weekday": 2,
+    "week_index": 44,
+    "discretionary_out_minor": 101652,
+    "all_out_minor": 101652,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025110504",
+      "CARD-2025110601",
+      "CARD-2025110602",
+      "CARD-2025110603",
+      "CARD-2025110604",
+      "SAV-2025110501"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-06",
+    "weekday": 3,
+    "week_index": 44,
+    "discretionary_out_minor": 21915,
+    "all_out_minor": 21915,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025110605",
+      "CARD-2025110701",
+      "CARD-2025110702",
+      "CARD-2025110703",
+      "CARD-2025110704",
+      "SAV-2025110601"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-07",
+    "weekday": 4,
+    "week_index": 44,
+    "discretionary_out_minor": 4739,
+    "all_out_minor": 4739,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025110801",
+      "CARD-2025110802",
+      "SAV-2025110701"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-08",
+    "weekday": 5,
+    "week_index": 44,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-09",
+    "weekday": 6,
+    "week_index": 44,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-10",
+    "weekday": 0,
+    "week_index": 45,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-11",
+    "weekday": 1,
+    "week_index": 45,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-12",
+    "weekday": 2,
+    "week_index": 45,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-13",
+    "weekday": 3,
+    "week_index": 45,
+    "discretionary_out_minor": 289,
+    "all_out_minor": 120289,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025111401",
+      "SAV-2025111301"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-14",
+    "weekday": 4,
+    "week_index": 45,
+    "discretionary_out_minor": 210,
+    "all_out_minor": 210,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025111501"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-15",
+    "weekday": 5,
+    "week_index": 45,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 80000,
+    "in_minor": 0,
+    "txn_ids": [
+      "SAV-2025111501"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-16",
+    "weekday": 6,
+    "week_index": 45,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-17",
+    "weekday": 0,
+    "week_index": 46,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-18",
+    "weekday": 1,
+    "week_index": 46,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-19",
+    "weekday": 2,
+    "week_index": 46,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-20",
+    "weekday": 3,
+    "week_index": 46,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-21",
+    "weekday": 4,
+    "week_index": 46,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-22",
+    "weekday": 5,
+    "week_index": 46,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-23",
+    "weekday": 6,
+    "week_index": 46,
+    "discretionary_out_minor": 5628,
+    "all_out_minor": 5628,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025112501"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-24",
+    "weekday": 0,
+    "week_index": 47,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-25",
+    "weekday": 1,
+    "week_index": 47,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-26",
+    "weekday": 2,
+    "week_index": 47,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-27",
+    "weekday": 3,
+    "week_index": 47,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 4500,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025112801"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-28",
+    "weekday": 4,
+    "week_index": 47,
+    "discretionary_out_minor": 75128,
+    "all_out_minor": 91393,
+    "in_minor": 675000,
+    "txn_ids": [
+      "CARD-2025112802",
+      "CARD-2025112803",
+      "CARD-2025112901",
+      "CARD-2025112902",
+      "CARD-2025112903",
+      "CARD-2025112904",
+      "CARD-2025112905",
+      "CARD-2025112906",
+      "SAV-2025112801",
+      "SAV-2025112802",
+      "SAV-2025112803"
+    ],
+    "is_payday": true
+  },
+  {
+    "date": "2025-11-29",
+    "weekday": 5,
+    "week_index": 47,
+    "discretionary_out_minor": 50682,
+    "all_out_minor": 50682,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025113001"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-11-30",
+    "weekday": 6,
+    "week_index": 47,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-01",
+    "weekday": 0,
+    "week_index": 48,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-02",
+    "weekday": 1,
+    "week_index": 48,
+    "discretionary_out_minor": 2640,
+    "all_out_minor": 18722,
+    "in_minor": 634,
+    "txn_ids": [
+      "CARD-2025120301",
+      "CARD-2025120401",
+      "SAV-2025120201",
+      "SAV-2025120202",
+      "SAV-2025120203"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-03",
+    "weekday": 2,
+    "week_index": 48,
+    "discretionary_out_minor": 9786,
+    "all_out_minor": 9786,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025120501"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-04",
+    "weekday": 3,
+    "week_index": 48,
+    "discretionary_out_minor": 12820,
+    "all_out_minor": 12820,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025120502",
+      "CARD-2025120503",
+      "CARD-2025120504",
+      "CARD-2025120505"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-05",
+    "weekday": 4,
+    "week_index": 48,
+    "discretionary_out_minor": 91252,
+    "all_out_minor": 91252,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025120506",
+      "CARD-2025120601",
+      "CARD-2025120602",
+      "CARD-2025120603",
+      "CARD-2025120604",
+      "SAV-2025120501",
+      "SAV-2025120502"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-06",
+    "weekday": 5,
+    "week_index": 48,
+    "discretionary_out_minor": 21136,
+    "all_out_minor": 21136,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025120605",
+      "CARD-2025120606"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-07",
+    "weekday": 6,
+    "week_index": 48,
+    "discretionary_out_minor": 1170,
+    "all_out_minor": 1170,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025120801"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-08",
+    "weekday": 0,
+    "week_index": 49,
+    "discretionary_out_minor": 1170,
+    "all_out_minor": 1170,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025120901"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-09",
+    "weekday": 1,
+    "week_index": 49,
+    "discretionary_out_minor": 16510,
+    "all_out_minor": 16510,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025120902",
+      "CARD-2025121001"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-10",
+    "weekday": 2,
+    "week_index": 49,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-11",
+    "weekday": 3,
+    "week_index": 49,
+    "discretionary_out_minor": 7347,
+    "all_out_minor": 127347,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025121201",
+      "SAV-2025121101"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-12",
+    "weekday": 4,
+    "week_index": 49,
+    "discretionary_out_minor": 14543,
+    "all_out_minor": 14543,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025121202",
+      "CARD-2025121301",
+      "CARD-2025121302",
+      "CARD-2025121303",
+      "CARD-2025121304",
+      "SAV-2025121201"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-13",
+    "weekday": 5,
+    "week_index": 49,
+    "discretionary_out_minor": 6962,
+    "all_out_minor": 86962,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025121401",
+      "CARD-2025121402",
+      "CARD-2025121403",
+      "CARD-2025121404",
+      "SAV-2025121301",
+      "SAV-2025121302"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-14",
+    "weekday": 6,
+    "week_index": 49,
+    "discretionary_out_minor": 28859,
+    "all_out_minor": 28859,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025121501",
+      "CARD-2025121502",
+      "CARD-2025121503",
+      "CARD-2025121504",
+      "SAV-2025121401"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-15",
+    "weekday": 0,
+    "week_index": 50,
+    "discretionary_out_minor": 29918,
+    "all_out_minor": 29918,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025121505",
+      "CARD-2025121601",
+      "CARD-2025121701",
+      "SAV-2025121501"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-16",
+    "weekday": 1,
+    "week_index": 50,
+    "discretionary_out_minor": 51278,
+    "all_out_minor": 51278,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025121602",
+      "CARD-2025121702",
+      "CARD-2025121703",
+      "SAV-2025121601",
+      "SAV-2025121602",
+      "SAV-2025121603"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-17",
+    "weekday": 2,
+    "week_index": 50,
+    "discretionary_out_minor": 900,
+    "all_out_minor": 900,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025121704"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-18",
+    "weekday": 3,
+    "week_index": 50,
+    "discretionary_out_minor": 47166,
+    "all_out_minor": 47166,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025121801",
+      "CARD-2025121901",
+      "CARD-2025121902"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-19",
+    "weekday": 4,
+    "week_index": 50,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-20",
+    "weekday": 5,
+    "week_index": 50,
+    "discretionary_out_minor": 8958,
+    "all_out_minor": 8958,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025122001",
+      "CARD-2025122101",
+      "SAV-2025122001"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-21",
+    "weekday": 6,
+    "week_index": 50,
+    "discretionary_out_minor": 5533,
+    "all_out_minor": 5533,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025122201"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-22",
+    "weekday": 0,
+    "week_index": 51,
+    "discretionary_out_minor": 96421,
+    "all_out_minor": 96421,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025122301",
+      "CARD-2025122302",
+      "CARD-2025122303",
+      "CARD-2025122401",
+      "CARD-2025122601"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-23",
+    "weekday": 1,
+    "week_index": 51,
+    "discretionary_out_minor": 4238,
+    "all_out_minor": 4238,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025122304",
+      "CARD-2025122402",
+      "CARD-2025122403",
+      "CARD-2025122404"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-24",
+    "weekday": 2,
+    "week_index": 51,
+    "discretionary_out_minor": 19590,
+    "all_out_minor": 19590,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025122501",
+      "CARD-2025122502",
+      "CARD-2025122602",
+      "SAV-2025122401"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-25",
+    "weekday": 3,
+    "week_index": 51,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 4500,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025122603",
+      "SAV-2025122501"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-26",
+    "weekday": 4,
+    "week_index": 51,
+    "discretionary_out_minor": 6094,
+    "all_out_minor": 6094,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025122604",
+      "CARD-2025122605"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-27",
+    "weekday": 5,
+    "week_index": 51,
+    "discretionary_out_minor": 773,
+    "all_out_minor": 773,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025122701",
+      "CARD-2025122801",
+      "SAV-2025122701"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-28",
+    "weekday": 6,
+    "week_index": 51,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-29",
+    "weekday": 0,
+    "week_index": 52,
+    "discretionary_out_minor": 0,
+    "all_out_minor": 0,
+    "in_minor": 0,
+    "txn_ids": [],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-30",
+    "weekday": 1,
+    "week_index": 52,
+    "discretionary_out_minor": 7532,
+    "all_out_minor": 23797,
+    "in_minor": 0,
+    "txn_ids": [
+      "CARD-2025123101",
+      "CARD-2025123102"
+    ],
+    "is_payday": false
+  },
+  {
+    "date": "2025-12-31",
+    "weekday": 2,
+    "week_index": 52,
+    "discretionary_out_minor": 5430,
+    "all_out_minor": 5430,
+    "in_minor": 675000,
+    "txn_ids": [
+      "CARD-2025123103",
+      "SAV-2025123101",
+      "SAV-2025123102"
+    ],
+    "is_payday": true
+  }
+]
